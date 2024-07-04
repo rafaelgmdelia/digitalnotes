@@ -1,0 +1,23 @@
+---
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/miosites/"}
+---
+
+# Polimiosite
+- anti SRP
+- Fraqueza muscularr **proximal simétrica insidiosa e progressiva**
+- Disfagia de conduçãp +musculatura cervical extensora
+- Artrite e pneumopatia intersticial
+
+# Dermatomiosite
+- anti Mu2
+- Polimiosite
+- Sinal do xale
+- Heliotropo
+- Pápulas de Gottron
+- Associação com neoplasias
+
+# Síndrome antisintetase
+- Anti-Jo1
+- Raynaud
+- Doença pulmonar intersticial
+- Mão de mecânico -> hiperqueratose

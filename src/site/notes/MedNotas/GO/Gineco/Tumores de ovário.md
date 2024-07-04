@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/tumores-de-ovario/"}
+---
+
+- Pré-pubere -> 
+	- cisto funcional
+	- germinativos
+		- teratoma
+		- gonadoblastoma
+		- disgerminoma
+- Menacme -> maioria benigno
+	- Cisto funcional
+	- Germinativos
+		- Teratoma
+	- Epiteliais
+		- Cistoadenoma (seroso/mucinoso)
+- Pós-menopausa -> maioria maligno
+	- Epiteliais
+		- Carcinoma seroso
+	- Estroma/cordão sexual
+	- Germinatibos
+	- Metástases
+# Critérios de massas suspeitas
+- Após menopausa
+- Trabéculas/projeções papilares
+- Espessamento da parede
+- Não homogêneo
+- Sólido
+- Septações grosseiras
+- Aumentado (> 8-10cm)
+- Doppler evidenciando alta vascularização
