@@ -2,10 +2,8 @@
 {"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/antibioticos/atb-empiricos/"}
 ---
 
-# ATB - Empírico
-
-## Infecções Respiratórias
-### Pneumonia adquirida em comunidade (PAC)
+# Infecções Respiratórias
+## Pneumonia adquirida em comunidade (PAC)
 - Principais agentes: **S. pneumoniae**, H. influenza, Mycoplasma pneumoniae, Chlamydia pneumoniae, Legionella spp., S. aureus
 - PAC simples (cocos gram +): Amoxicilina
 - PAC broncoaspirativa (gram -/anaeróbios): Amoxicilina + Clavulanato: 
@@ -14,103 +12,97 @@
 	- Ceftriaxona + macrolídeo
 	- Azitromicina
 
-### Amigdalite
+## Amigdalite
 - Maioria viral
 - S. pyogenes principal agente (15% a 20%)
 - Febre reumática, GNDA
 - Penicilina G benzatina DU IM
 - Amoxicilina VO 8/8h por 7 dias
 
-### Rinossinusite
+## Rinossinusite
 - S. pneumonia, H. influenza, M. catarrhalis
 - Amoxicilina
 - Amoxicilina + Clavulanato (se betalactamase)
 
-## ITU
-### Cistite não complicada
+# ITU
+## Cistite não complicada
 - Enterobactérias (E. coli (90%), Klebsiella), Staphylo. enterococcus, S. agalactiae
 	- Nitrofurantoína (macrodantina): penetração apenas na bexiga
 	- Norfloxacino 
 	- Ciprofloxacino
-### Pielonefrite
+## Pielonefrite
 - Ceftriaxona
 - Ciprofloxacino
 - Aminoglicosídeos
 
-## Infecções abdominais
-### GECA
+# Infecções abdominais
+## GECA
 - Shigella, Salmonella, Campylobacter, E. coli
 - Ciprofloxacino
 - Azitromicina
 - Ceftriaxona
-### Diverticulite
+## Diverticulite
 - Gram - e anaeróbios
 - Amoxicilina + Clavulanato
 - Ciprofloxacino + Metronidazol
 - Ceftriaxona + Metronidazol
-### PBE
+## PBE
 - Cefotaxima
 - Ceftriaxona
 - Amoxicilina + Clavulanato
 
-### Clostridium difficile
+## Clostridium difficile
 - Metronidazol VO
 - Vancomicina VO
 
-## Infecções de Pele
-### Impetigo + Erisipela + Celulite
+# Infecções de Pele
+## Impetigo + Erisipela + Celulite
 - S. pyogenes + S. aureus
 - Cefalexina VO
 - Cefadroxila
 - Amoxicilina
 - Oxacilina
 - Ceftriaxona
-### Mordedura por animais
+## Mordedura por animais
 - Cobertura para Pasteurella
 - Amoxicilina + Clavulanato
 
-### Infecções necrotizantes de pele
+## Infecções necrotizantes de pele
 - Gram +. gram - e anaeróbios
 - Ceftriaxona + Clindamicina
 - Vancomicina + Amicacina + Metronidazol
 - Vancomicina + Meropenem
 
-### Pé diabético
+## Pé diabético
 - Cefalexina
 - Amoxicilina + Clavulanato
 - Ciprofloxacino + Clindamicina
 - Bactrim
 
-## Infecções SNC
-### Meningite Bacteriana
+# Infecções SNC
+## Meningite Bacteriana
 - Ceftriaxona (dose dobrada) + dexametasona
 - Vancomicina + Ceftazidima
 - Vancomicina + Meropenem
-### Abcesso Cerebral
+## Abcesso Cerebral
 - Comunitário: Ceftriaxona + Oxacilina + Metronidazol
 - Hospitalar: Vancomicina + Meropenem
 
-## Endocardite
+# Endocardite
 - Oxacilina + Ampicilina + Gentamicina
 - Oxacilina + Ceftriaxona
  
-## Pioartrite
+# Pioartrite
 - S. aureus, gonococo
 - Oxacilina + Gentamicina
 - Clindamicina + Gentamicina
 
-## Infecções Ginecológicas
-### Doença Inflamatória Pélvica (DIP)
+# Infecções Ginecológicas
+## Doença Inflamatória Pélvica (DIP)
 - Chlamydia, N. gonorreia, Gardnerella vaginalis, S. agalactiae, H. influenza
 - Ceftriaxona + Doxiciclina + Metronidazol
 - Cefoxitina + Doxiciclina + Metronidazol
 - Ampicilina + Doxiciclina
 
-### Infecção puerperal 
+## Infecção puerperal 
 - Ampicilina + Gentamicina + Metronidazol 
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTUxNDkyOSwtMTIwNjUwMjAxOSwxNj
-AwMzQ0MDY4LDEyNjI4ODIxMjVdfQ==
--->
