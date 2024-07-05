@@ -9,7 +9,7 @@ Pressão arterial pulmonar média > 20 mmHg em repouso
 	- Induzida por drogas
 	- Esclerose sistêmica
 	- Esquistossomose
-	- HIV
+	- [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]]
 # Grupo II
 - ## HP causada por doença do coração esquerdo
 	- ICFER

@@ -51,7 +51,7 @@ Obstrução calculosa da via biliar
 - 1,8 < BT < 4
 - Aumento de GGT / FAL
 - Idade > 55 anos
-- Pancreatite biliar prévia
+- [[MedNotas/Cirurgia Geral/Abdome Agudo Inflamatório/Pancreatite\|Pancreatite]] biliar prévia
 
 ## Derivação biliodigestiva
 - Múltiplos cálculos impactados

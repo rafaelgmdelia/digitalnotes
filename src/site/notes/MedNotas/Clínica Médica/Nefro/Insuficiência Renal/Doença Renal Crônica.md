@@ -15,9 +15,9 @@ Presença de anormalidade estrutural ou funcionial >= 3 meses
 		- hipocalcemia
 		- hiponatremia
 	- Exames complementares
-		- Doenças glomerulares -> FAN, ANCA, complemento, hepatites e HIV
+		- Doenças glomerulares -> FAN, ANCA, complemento, hepatites e [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]]
 		- USG -> Normalmente com rins de tamanho reduzido
-			- DM, HIV, amiloidose e doença renal policística cursam com rins de tamanho normal ou aumentado
+			- DM, [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]], amiloidose e doença renal policística cursam com rins de tamanho normal ou aumentado
 # Classificação KDIGO
 - TFG e albuminúria
 - TFG > 90 até < 15

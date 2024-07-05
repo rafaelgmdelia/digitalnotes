@@ -19,7 +19,7 @@
 - Desdobramento paradoxal de B2
 
 # Exames complementares
-- ECG -> SVE
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] -> SVE
 - ECO -> define classificação 
 
 # Tratamento

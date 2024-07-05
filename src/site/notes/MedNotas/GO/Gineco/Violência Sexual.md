@@ -17,7 +17,7 @@
 		- Hepatite B -> 
 			- esquema vacinal 3 doses
 			- IGHAHB não é feita de rotina, apenas se vítima suscetível + agressor de risco -> até 14 dias
-		- HIV
+		- [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]]
 			- PEP
 			- até 72hrs da violência
 	- ## Não virais (ABC das profilaxias)

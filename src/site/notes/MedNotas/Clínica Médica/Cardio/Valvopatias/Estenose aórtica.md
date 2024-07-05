@@ -29,7 +29,7 @@ Hipertrofia de VE
 	- Vibração da valva aórtica reverbera no anel mitral -> irradiação para o foco mitral
 
 # Exames complementares
-- ECG -> SVE
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] -> SVE
 - RX -> cardiomegalia
 - **ECOTT**
 	- **Importante:**

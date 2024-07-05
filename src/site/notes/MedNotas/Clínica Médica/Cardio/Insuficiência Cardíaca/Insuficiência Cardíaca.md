@@ -48,7 +48,7 @@ Síndrome clinica secundária à incapacidade do coração de bombear efetivamen
 	- [[MedNotas/Clínica Médica/Cardio/Insuficiência Cardíaca/Critérios de Framingham\|Critérios de Framingham]]
 - Exames complementares
 	- RX de Tórax: [[MedNotas/Clínica Médica/Cardio/Insuficiência Cardíaca/ABCD2\|ABCD2]]
-	- ECG
+	- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]]
 
 # Tratamento
 - [[MedNotas/Clínica Médica/Cardio/Insuficiência Cardíaca/Tratamento Ambulatorial da IC\|Tratamento Ambulatorial da IC]]

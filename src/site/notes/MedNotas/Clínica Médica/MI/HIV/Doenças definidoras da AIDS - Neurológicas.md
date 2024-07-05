@@ -7,10 +7,10 @@
 Caracteriza-se por uma *síndrome de meningite viral*(cefaleia + febre baixa + pleocitose liquórica com predomínio de linfócitos).
 Tratamento consiste em hidratação e analgesia
 ## Demência pelo HIV
-Ocorre em pacientes com HIV latente ou crônico. Consiste em um diagnóstico de exclusão. Tratamento deve ser feito com TARV com boa penetração em SNC
+Ocorre em pacientes com [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]] latente ou crônico. Consiste em um diagnóstico de exclusão. Tratamento deve ser feito com TARV com boa penetração em SNC
 # Neurotoxoplasmose
 ## Epidemiologia
-Manifestação neurológica mais comum no paciente HIV+. Ocorre em pacientes com CD4 < 100
+Manifestação neurológica mais comum no paciente [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]]+. Ocorre em pacientes com CD4 < 100
 ## Quadro clínico
 Costuma ser subagudo, com duração de duas a três semanas. Caracteriza-se por um importante efeito de massa
 

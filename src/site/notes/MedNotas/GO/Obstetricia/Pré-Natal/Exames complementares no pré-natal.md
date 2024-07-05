@@ -9,7 +9,7 @@
 - Tipagem Sanguínea
 - Coombs Indireto
 
-- HIV
+- [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]]
 - Sífilis
 - Toxoplasmose
 - HepB e HepC

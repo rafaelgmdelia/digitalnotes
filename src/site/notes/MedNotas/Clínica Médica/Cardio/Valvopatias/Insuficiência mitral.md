@@ -20,7 +20,7 @@
 - Sinais de [[MedNotas/Clínica Médica/Cardio/Insuficiência Cardíaca/Insuficiência Cardíaca\|IC]] direita
 
 # Exames complementares
-- ECG -> SAE + SVE
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] -> SAE + SVE
 
 # Tratamento
 - IM primária -> cirurgia (troca valvar ou plastia)

@@ -3,7 +3,7 @@
 ---
 
 # Exames complementares
-- ECG
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]]
 - RX de Tórax
 - EcoTT
 
@@ -14,7 +14,7 @@
 	- Estresse físico -> **Teste Ergométrico**
 		- Contraindicado se:
 			- Limitação motora
-			- Alterações prévias no ECG (infra > 1mm / BRE)
+			- Alterações prévias no [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] (infra > 1mm / BRE)
 	- Estresse farmacológico -> Cintilografia 
 		- Dipiridamol -> risco de broncoespasmo
 	- Teste anatômico -> AngioTC

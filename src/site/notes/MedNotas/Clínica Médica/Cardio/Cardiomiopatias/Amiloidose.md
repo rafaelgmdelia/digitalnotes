@@ -17,7 +17,7 @@ Mais de 30 tipos
 	- Selvagem (ATTRwt) - "senil"
 	- Hereditária ou variante (ATTRv)
 # Exames complementares
-- ECG -> 
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] -> 
 	- baixa voltagem difusa
 	- pseudo infarto - onda Q patológica
 	- alterações do sistema de condução

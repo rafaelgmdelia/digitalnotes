@@ -20,6 +20,6 @@
 
 # Exames complementares
 - Troponina alterada - MINOCA
-- ECG -> supra ST difuso, inversão de onda T, bloqueio de ramo, arritmias supra e ventriculares
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] -> supra ST difuso, inversão de onda T, bloqueio de ramo, arritmias supra e ventriculares
 - ECO -> hipocinesia difusa ou segmentar
 - RM -> realce tardio que poupa o subendocárdio

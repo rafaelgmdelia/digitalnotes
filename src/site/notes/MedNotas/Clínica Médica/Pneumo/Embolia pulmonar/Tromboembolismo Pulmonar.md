@@ -26,7 +26,7 @@ Obstrução da artéria pulmonar ou de um de seus ramos -> isquemia e infarto pu
 	- Sinal de Westermark -> oligoemia localizada
 	- Corcova de Hampton -> hipotransparencia em cunha no seio costofrênico
 	- Sinal de Palla -> dilatação da artéria pulmonar
-- ECG ->
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] ->
 	- Taquicardia sinusal
 	- Inversão de onda T V1-V4
 	- Sobrecarga de VD ou BRD

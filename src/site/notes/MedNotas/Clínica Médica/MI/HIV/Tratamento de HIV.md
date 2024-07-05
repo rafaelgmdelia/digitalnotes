@@ -49,7 +49,7 @@
 
 # Avaliação Ambulatorial
 
-- Contagem de células CD4+ e carga viral HIV
+- Contagem de células CD4+ e carga viral [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]]
 - Sorologias: sífilis, hepatite B, hepatite C, Toxoplasmose, HTLV, Chagas
 - HMG, Ur, Creat, Urina 1, TGO/TGP, BTF, GGT, FA
 - Colesterol total e frações, TG, glicemia de jejum

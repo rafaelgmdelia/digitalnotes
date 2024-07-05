@@ -20,11 +20,11 @@
 	- Longilíneo
 	- Asma
 	- *Core Pulmonale*
-		- DPOC
-		- Hipertensão pulmonar
-		- TEP
+		- [[MedNotas/Clínica Médica/Pneumo/Distúrbios Obstrutivos/DPOC\|DPOC]]
+		- [[MedNotas/Clínica Médica/Pneumo/Embolia pulmonar/Hipertensão pulmonar\|Hipertensão pulmonar]]
+		- [[MedNotas/Clínica Médica/Pneumo/Embolia pulmonar/Tromboembolismo Pulmonar\|TEP]]
 	- Alterações valvares
-	- Doenças restritivas: Sarcoidose/Amiloidose
+	- Doenças restritivas: Sarcoidose/[[MedNotas/Clínica Médica/Cardio/Cardiomiopatias/Amiloidose\|Amiloidose]]
 
 ## Ventrículo esquerdo
 - Critérios Diagnósticos

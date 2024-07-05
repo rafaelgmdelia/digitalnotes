@@ -24,7 +24,7 @@ O defeito congênito mais comum de todos.
 - Triagem -> [[MedNotas/Pediatria/Neonatologia/Alojamento Conjunto/Teste do Coraçãozinho\|Teste do Coraçãozinho]]
 - Suspeição Clínica
 - RX de Tórax
-- ECG
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]]
 
 # Classificação
 ## Acianóticas

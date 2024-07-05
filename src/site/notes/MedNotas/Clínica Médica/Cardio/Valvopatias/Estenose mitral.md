@@ -24,7 +24,7 @@ Restrição do fluxo sanguíneo AE -> VE
 
 
 # Exames complementares
-- ECG -> sobrecarga de AE e VD
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] -> sobrecarga de AE e VD
 
 # Tratamento
 ## Medicamentoso

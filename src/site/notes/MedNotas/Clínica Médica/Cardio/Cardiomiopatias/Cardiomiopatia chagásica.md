@@ -14,7 +14,7 @@
 - Cardíaca
 
 # Exames complementares
-- **ECG -> BRD + BDAS**
+- **[[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] -> BRD + BDAS**
 
 # Tratamento
 - Benznidazol -> fase aguda

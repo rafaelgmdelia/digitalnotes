@@ -21,7 +21,7 @@ Estímulo vai normal até o nó atrioventricular e em algum ponto ocorre a inter
 Quando há bloqueio de ramo direito, o VD despolariza depois do VE
 - **V1**:  onda R' positiva (morfologia RsR' com onda T invertida)
 - **V6**: alargamento de onda S
-- - Causas: DAC, cardiomiopatias, anomalia de Ebstein
+- - Causas: [[MedNotas/Clínica Médica/Cardio/Síndrome Coronariana/Síndrome Coronariana Crônica\|DAC]], cardiomiopatias, anomalia de Ebstein
 
 ## Bloqueio de Ramo Esquerdo
 Continua puxando para a esquerda, mas de forma mais demorada.

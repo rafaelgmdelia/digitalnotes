@@ -5,5 +5,5 @@
 ### Defeito do Septo Atrioventricular Total
 CIA + CIV + valva atrioventricular única
 - comum na Síndrome de Down
-- ECG com BDAS
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] com BDAS
 - Tratamento **cirúrgico**

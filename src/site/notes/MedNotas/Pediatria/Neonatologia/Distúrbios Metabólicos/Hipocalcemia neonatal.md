@@ -3,7 +3,7 @@
 ---
 
 # Manifestações clínicas
-- Assintomáticos -> identificação via exame laboratorial ou alterações em ECG
+- Assintomáticos -> identificação via exame laboratorial ou alterações em [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]]
 - Sintomáticos -> convulsões, tremores, hiperreflexia, irritabilidade
 
 # Tratamento
