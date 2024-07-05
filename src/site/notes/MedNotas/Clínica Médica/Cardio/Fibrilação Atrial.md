@@ -3,8 +3,8 @@
 ---
 
 # Instável
--> Cardioversão elétrica
-	-> anticoagulação por 4 semanas
+- Cardioversão elétrica
+- anticoagulação por 4 semanas
 
 # Estável
 ## FA de início recente (menos de 48h)

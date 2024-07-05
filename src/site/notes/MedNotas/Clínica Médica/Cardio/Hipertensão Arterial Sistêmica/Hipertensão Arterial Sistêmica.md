@@ -41,6 +41,6 @@
 - Glicemia de jejum e HbA1C
 - Colesterol total / HDL / triglicerídeos
 - Ácido úrico
-- [[ECG\|ECG]]
+- [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]]
 # [[MedNotas/Clínica Médica/Cardio/Hipertensão Arterial Sistêmica/Tratamento da HAS\|Tratamento da HAS]]
 
