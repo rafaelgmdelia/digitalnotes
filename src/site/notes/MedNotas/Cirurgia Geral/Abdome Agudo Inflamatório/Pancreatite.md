@@ -98,7 +98,12 @@ Classificação de imagens
 		3. necrosectomia
 - Pseudocisto
 	- > 4 semanas | crônico
-	- cisto homogêneo e volumoso
-	- sintomas compressivos
+	- cisto homogêneo, encapsulado e volumoso
+	- sintomas compressivos -> drenagem apenas se necessário
+		- cistogastroanastomose endoscópica
+	- tipicamente extrapancreático
 - Walled of necrosis
 	- necrose pancreática encapsulada
+	- conteúdo heterogêneo com presença de septos e debris
+	- pode ser acompanhado ambulatorialmente
+	- pode ser intra ou extrapancreático
