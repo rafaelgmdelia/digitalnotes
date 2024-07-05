@@ -58,7 +58,7 @@
 	- hematúria
 	- infiltra < 50% do glomérulo
 - **IV -> proliferativa difusa**
-	- infiltra < 50% do glomérulo
+	- infiltra > 50% do glomérulo
 	- forma mais grave
 
 ### Classe V

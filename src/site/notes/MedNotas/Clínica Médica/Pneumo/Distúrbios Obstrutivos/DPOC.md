@@ -34,7 +34,7 @@
 
 # Exames complementares
 ## [[Gasometria\|Gasometria]]
-- Deve ser solicitada se SatO2< 92%
+- Deve ser solicitada se SatO2 < 92%
 - aumento de PaCO2 e HCO3
 ## RX de Tórax
 ## Alfa-1-antitripsina

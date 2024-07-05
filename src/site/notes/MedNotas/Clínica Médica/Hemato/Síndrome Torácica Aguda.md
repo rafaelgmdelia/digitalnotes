@@ -15,8 +15,8 @@ RX de Tórax com consolidação pulmonar nova + 1 dos fatores:
 - Estertores
 
 # Tratamento - SHATO
-## Suporte de Oxigênio se satO2 menor que 92%
-## Hidratação endovenosa
-## Antibiótico
-## Transfusão de hemoconcentrados (em casos graves)
-## Opioide
+- Suporte de Oxigênio se satO2 <= 92%
+-  Hidratação endovenosa
+- Antibiótico
+- Transfusão de hemoconcentrados (em casos graves)
+- Opioide

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/med-notas/pediatria/trauma/pecarn/"}
 ---
 
-# Idade < 2 anos
+# Idade menor que 2 anos
 ## Tomografia se
 - [[MedNotas/Cirurgia Geral/Trauma/Escala de Coma de Glasgow\|Glasgow]] < 15
 - Alteração de nível de consciência
@@ -14,7 +14,7 @@
 - Mecanismo grave de trauma
 	- Queda de > 0,9m
 
-# Idade >= 2 anos
+# Idade maior que 2 anos
 ## Tomografia
 - [[MedNotas/Cirurgia Geral/Trauma/Escala de Coma de Glasgow\|Glasgow]] < 15
 - Alteração de nível de consciência

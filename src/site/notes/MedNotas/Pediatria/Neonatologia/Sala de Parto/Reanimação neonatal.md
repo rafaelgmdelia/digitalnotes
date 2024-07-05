@@ -8,11 +8,11 @@
 
 ## 1° ciclo:
  30 segundos -> reavaliar após
-## 2º ciclo: se mantém FC < 100 bpm
+## 2º ciclo: se mantém FC menor que 100 bpm
 - Checar técnica
 - Considerar máscara laríngea ou intubação
 ## 3º ciclo: 
-- ### se  FC < 60 bpm
+- ### se  FC menor que 60 bpm
 	- Intubação
 	- Massagem cardíaca
 		- relação 3:1 com a ventilação

@@ -41,7 +41,8 @@ Formação de trombo no sistema venoso
 - Diferença diâmetros > 3 cm nas panturrilhas
 - Edema apenas em um membro (cacifo +)
 - Veias superficiais colaterais
-## Baixa e intermediária probabilidade (<= 2 pontos)
+## Baixa e intermediária probabilidade 
+(<= 2 pontos)
 - D-dímero -> valor preditivo negativo
 	- < 500 encerra investigação
 
