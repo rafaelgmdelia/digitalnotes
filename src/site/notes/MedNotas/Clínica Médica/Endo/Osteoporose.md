@@ -8,7 +8,7 @@
 - Fratura por fragilidade
 - Normal -> T-score >= -1
 
-## Paciente < 50 anos
+## Paciente com menos de 50 anos
 - **Z-score** <= -2 -> baixa densidade mineral óssea
 
 # Tratamento
