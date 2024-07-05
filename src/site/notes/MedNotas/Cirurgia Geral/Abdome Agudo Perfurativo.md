@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-perfurativo/"}
 ---
 
-# QUadro clínico
+# Quadro clínico
 - História de úlcera péptica
 - Dor súbita
 - Abdome em tábua
