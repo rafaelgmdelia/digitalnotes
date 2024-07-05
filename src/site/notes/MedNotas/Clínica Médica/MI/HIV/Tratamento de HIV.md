@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hiv/tratamento-de-hiv/","title":"HIV - Tratamento"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hiv/tratamento-de-hiv/"}
 ---
 
 
