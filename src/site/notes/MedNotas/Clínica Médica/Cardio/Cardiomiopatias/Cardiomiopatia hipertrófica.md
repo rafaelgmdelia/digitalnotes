@@ -34,7 +34,7 @@
 - Profilaxia secundária com CDI se
 	- TV sustendada
 	- FV revertida
-	- [[MedNotas/Pediatria/PALS/PCR\|PCR]] abortada
+	- [[MedNotas/Pediatria/PALS/Parada Cardiorrespiratória na Pediatria\|Parada Cardiorrespiratória na Pediatria]] abortada
 - Refratários a tratamento clinico:
 	- Ventriculomiectomia septal
 	- Ablação septal
