@@ -14,7 +14,7 @@
 			- preferencial até 72h
 			- possível até 120h 
 	- ## Virais
-		- Hepatite B -> 
+		- [[MedNotas/Clínica Médica/MI/Hepatites virais/Hepatite B\|Hepatite B]] -> 
 			- esquema vacinal 3 doses
 			- IGHAHB não é feita de rotina, apenas se vítima suscetível + agressor de risco -> até 14 dias
 		- [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]]

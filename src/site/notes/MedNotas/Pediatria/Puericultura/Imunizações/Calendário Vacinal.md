@@ -4,7 +4,7 @@
 
 # Ao nascer
 - BCG
-- Hepatite B
+- [[MedNotas/Clínica Médica/MI/Hepatites virais/Hepatite B\|Hepatite B]]
 # 2 meses
 *Em dois mil e DOIS, o Brasil foi PENTA com ROnaldo VIP camisa 10*
 - Pentavalente
@@ -49,7 +49,7 @@ Repete dos 3 meses
 
 # 15 meses
 *A debutante troca o vestido*
-- Hepatite A
+- [[MedNotas/Clínica Médica/MI/Hepatites virais/Hepatite A\|Hepatite A]]
 - DTP reforço
 - Tetra viral 
 	- SCR

@@ -29,7 +29,7 @@ Melhor período -> entre 6 e 9 semanas
 - Monocoriônica -> **sinal do T**
 # Complicações
 - Hiperêmese gravídica
-- DMG
+- [[MedNotas/GO/Obstetricia/Pré-Natal/Diabetes Gestacional\|DMG]]
 - [[MedNotas/GO/Obstetricia/Pré-Natal/Síndrome Hipertensiva na Gestação\|Síndrome Hipertensiva na Gestação]]
 - Rotura prematura de membranas ovulares
 - [[MedNotas/GO/Obstetricia/Sangramentos de Segunda Metade/Sangramentos de Segunda Metade\|Sangramentos de Segunda Metade]]

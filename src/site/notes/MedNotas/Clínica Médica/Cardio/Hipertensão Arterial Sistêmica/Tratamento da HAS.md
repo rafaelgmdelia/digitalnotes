@@ -9,7 +9,7 @@
 | Sem fatores de risco | *Sem risco adicional* | Baixo | Médio | Alto |
 | <= 2 fatores de risco | Baixo | Médio | Alto | Alto |
 | >= 3 fatores de risco | Médio | Alto | Alto | Alto |
-| Lesão de Órgão Alvo, DM, [[[[[[Doença Renal Crônica\|DRC]]|[[MedNotas/Clínica Médica/Nefro/Insuficiência Renal/Doença Renal Crônica\|DRC]]]]|[[[[Doença Renal Crônica\|DRC]]|[[MedNotas/Clínica Médica/Nefro/Insuficiência Renal/Doença Renal Crônica\|DRC]]]]]] III, Doença Cardiovascular | Alto | Alto | Alto | Alto |
+| Lesão de Órgão Alvo, DM, [[[[[[[[Doença Renal Crônica\|DRC]]|[[MedNotas/Clínica Médica/Nefro/Insuficiência Renal/Doença Renal Crônica\|DRC]]]]|[[[[Doença Renal Crônica\|DRC]]|[[MedNotas/Clínica Médica/Nefro/Insuficiência Renal/Doença Renal Crônica\|DRC]]]]]]|[[[[[[Doença Renal Crônica\|DRC]]|[[MedNotas/Clínica Médica/Nefro/Insuficiência Renal/Doença Renal Crônica\|DRC]]]]|[[[[Doença Renal Crônica\|DRC]]|[[MedNotas/Clínica Médica/Nefro/Insuficiência Renal/Doença Renal Crônica\|DRC]]]]]]]] III, Doença Cardiovascular | Alto | Alto | Alto | Alto |
 # 2. Estabelecer meta de PA
 - **Risco CV baixo/médio** -> PA < 140x90 mmHg
 - **Risco CV alto** -> PAS 120-129 mmHg / PAD 70-80 mmHg

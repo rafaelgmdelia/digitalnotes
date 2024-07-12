@@ -63,7 +63,7 @@
 
 # Profilaxia pré-exposição
 - 3 doses
-- Imunodeprimidos, DRC, transplantador -> 4 doses duplas
+- Imunodeprimidos, [[MedNotas/Clínica Médica/Nefro/Insuficiência Renal/Doença Renal Crônica\|DRC]], transplantador -> 4 doses duplas
 
 # Profilaxia pós exposição
 - IGHB até 72hrs após exposição

@@ -26,7 +26,7 @@
 
 # Diagnósticos diferenciais
 - Descendente -> botulismo ?
-- Disfunção esfincteriana -> mielopatia ?
+- Disfunção esfincteriana -> [[MedNotas/Clínica Médica/Neuro/Síndromes Medulares\|síndrome medular]] ?
 - Quadro assimétrico, hiperagudo, < 15 anos -> poliomielite ?
 - Hipocalemia -> paralisia periódica hipocalêmica
 - Oftalmoplegia + ataxia + arreflexia + Anti-GQB1 -> **variante Miller-Fisher**
