@@ -29,7 +29,7 @@
 	- bhCG mensal por mais 6 meses
 	- Aguardar 1 ano após bhCG negativo para engravidar
 # Malignização
-- Neoplasia trofoblásticas gestacional
+- **Neoplasia trofoblásticas gestacional**
 - Curva ascendente (> 10%) de bhCG em 3 aferições 
 - Curva em platô de bhCG em 4 aferições
 - Presença de metástase à distância
