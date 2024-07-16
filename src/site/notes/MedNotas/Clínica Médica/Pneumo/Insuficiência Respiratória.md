@@ -24,4 +24,4 @@ Desbalanço regional entre ventilação e perfusão
 # Conduta
 - Monitorização
 - Investigação etiológica
-	- [[MedNotas/Clínica Médica/Pneumo/Protocolo BLUE\|Protocolo BLUE]]
+	- [[MedNotas/Clínica Médica/Pneumo/Protocolo BLUE\|MedNotas/Clínica Médica/Pneumo/Protocolo BLUE]]

@@ -4,8 +4,8 @@
 
 # Polimiosite
 - anti SRP
-- Fraqueza muscularr **proximal simétrica insidiosa e progressiva**
-- Disfagia de conduçãp +musculatura cervical extensora
+- Fraqueza muscular **proximal simétrica insidiosa e progressiva**
+- Disfagia de condução+musculatura cervical extensora
 - Artrite e pneumopatia intersticial
 
 # Dermatomiosite
