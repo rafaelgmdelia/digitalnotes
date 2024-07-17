@@ -4,10 +4,10 @@
 
 - Incubação: 6 a 7 semanas
 - Agudo: assintomático (70%)
-- Cirrose -> CHC
+- [[MedNotas/Clínica Médica/Hepato/Cirrose Hepática\|Cirrose]] -> CHC
 
 # Doenças associadas
-- Crioglobulinemia
+- [[MedNotas/Clínica Médica/Reumato/Vasculites/Crioglobulinemia\|Crioglobulinemia]]
 - GN mesangiocapilar
 - Linfoma de células B
 - Líquen plano

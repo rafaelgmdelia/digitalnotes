@@ -6,7 +6,7 @@
 Paciente hígido
 - < 40 anos -> nenhum exame
 - 40-49 anos -> HMG, [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] homens, bHCG mulheres
-- 50-64 anos -> hmg, ECG homens e mulheres
+- 50-64 anos -> hmg, [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]] homens e mulheres
 - > 65 anos -> HMG, [[MedNotas/Clínica Médica/Cardio/ECG/ECG\|ECG]], função renal, glicemia, RX de Tórax
 
 # Jejum pré-operatório

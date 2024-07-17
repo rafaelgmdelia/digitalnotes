@@ -13,7 +13,7 @@
 - Tabagismo
 	- > 35 anos + > 15 cigarros/dia
 - Câncer de mama atual
-- Cirrose descompensada, adenoma hepatocelular 
+- [[MedNotas/Clínica Médica/Hepato/Cirrose Hepática\|Cirrose]] descompensada, adenoma hepatocelular 
 - Amamentação (< 6 semanas após parto)
 - Cirurgias grandes com imobilização prolongada
 - Lúpus Eritematoso Sistêmico
