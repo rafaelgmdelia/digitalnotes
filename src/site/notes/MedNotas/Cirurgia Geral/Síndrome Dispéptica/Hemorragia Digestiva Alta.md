@@ -23,27 +23,19 @@
 	- < 12h se instável
 	- < 24h se estável
 
-
-# Classificação de Forrest
-## Forrest I
-- hemorragia ativa
-### Forrest IA
-- sangramento em jato
-### Forrest IB
-- sangramento em babação
-## Forrest II
-- hemorragia recente
-### Forrest IIA
-- vaso visível não sangrante
-### Forrest IIB
-- coágulo aderido
-### Forrest IIC
-- hematina na base da úlcera
-
 # Tratamento endoscópico
-**Forrest IA, IB e IIA**
+**[[MedNotas/Cirurgia Geral/Síndrome Dispéptica/Classificação de Forrest\|Classificação de Forrest]] IA, IB e IIA**
 - Combinar pelo menos 2 modalidades:
 	- Escleroterapia
 	- Eletrocoagulação
 	- Hemoclipes
 - Ressangramento -> nova tentativa endoscópica ou cirúrgia
+
+# Etiologia varicosa
+## TIPS
+- Shunt portossistêmico transjugular intra-hepático
+- Etiologia varicosa
+- Contraindicação -> IC direita
+## Profilaxia primária
+- **Carvedilol**
+- Indicação -> [[MedNotas/Clínica Médica/Hepato/Hipertensão portal\|Hipertensão portal]] clinicamente significativa

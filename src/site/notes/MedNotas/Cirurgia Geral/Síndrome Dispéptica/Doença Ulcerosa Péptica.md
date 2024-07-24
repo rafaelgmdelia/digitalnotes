@@ -54,6 +54,7 @@
 	- Diagnóstico: EDA + RX contrastado (EED)
 	- Tratamento: dilatação endoscópica por balão
 	
+# [[MedNotas/Cirurgia Geral/Síndrome Dispéptica/Classificação de Forrest\|Classificação de Forrest]]
 
 # Tratamento 
 - IBP
