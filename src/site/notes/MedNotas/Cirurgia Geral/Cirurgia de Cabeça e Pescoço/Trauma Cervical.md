@@ -27,6 +27,15 @@ Estáve hemodinamicamente e sem *Hard Signs*
 - Investigação cardiovascular -> Arteriografia, angioTC ou USG doppler
 - Investigação de TGI -> EDA e/ou esofagograma
 
+# AngioTC no trauma cervical contuso
+- **Fratura de vértebra cinervical**
+- Fratura com desvio Le Fort II ou III
+- Fratura de mandíbula ou base de crânio
+- Imagem sugestiva de Lesão Axonal Difusa com Glasgow < 6
+- Trauma raqui-medular cervical
+- Tentativa de enforcamento
+- Sinal do cinto de segurança
+- Mecanismo compatível com hipertensão + rotação
 # [[MedNotas/Cirurgia Geral/Trauma/ABCDE/Airway\|Airway]]
 ## Cricotireoidostomia cirúrgica
 - Falha na IOT
