@@ -59,7 +59,7 @@
 - [[MedNotas/Clínica Médica/Cardio/Insuficiência Cardíaca/Insuficiência Cardíaca\|Insuficiência cardíaca]]
 - Hipogonadismo
 - Hiperglicemia -> Diabetes
-- Artrite -> artropatia simétrica mono ou poliarticular -> osteófitos em gancho
+- Artrite -> artropatia simétrica mono ou poliarticular -> **osteófitos em gancho**
 - Hiperpigmentação cutânea
 - **Diagnóstico** ->
 	- Saturação de transferrina > 45%

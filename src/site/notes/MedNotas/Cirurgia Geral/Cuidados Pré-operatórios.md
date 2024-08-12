@@ -39,6 +39,12 @@ Paciente hígido
 # Avaliação Cardiovascular
 - Comprometimento funcional / METS < 4 -> teste de esforço
 
+# Avaliação Pneumologica
+- Solicitar [[MedNotas/Clínica Médica/Pneumo/Espirometria\|espirometria]] se
+	- cirurgia de ressecção pulmonar
+	- dispneia de causa incerta
+	- [[MedNotas/Clínica Médica/Pneumo/Distúrbios Obstrutivos/DPOC\|DPOC]] não compensado
+
 # Medicamentos de uso contínuo
 ## Insulina 
 - 2/3 da dose na noite anterior
