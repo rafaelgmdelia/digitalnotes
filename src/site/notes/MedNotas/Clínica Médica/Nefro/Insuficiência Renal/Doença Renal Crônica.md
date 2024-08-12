@@ -51,7 +51,7 @@ Presença de anormalidade estrutural ou funcionial >= 3 meses
 - Dor lombar e joelhos
 - Fraturas patológicas
 - PTH > 450 + Pi > 65
-- Osteíte fibrosa cística 
+- Osteíte fibrosa cística (hipercalcemia + FAL)
 - -> Doença óssea adinâmica 
 - -> hiperparatireoidismo terciário
 ### Tratamento
