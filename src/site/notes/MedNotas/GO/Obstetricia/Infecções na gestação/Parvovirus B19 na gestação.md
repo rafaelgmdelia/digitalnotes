@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/parvovirus-b19-na-gestacao/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/parvovirus-b19-na-gestacao/","tags":["review"]}
 ---
 
 Risco de hidropsia fetal secundária a anemia fetal por lesão direta dos eritrócitos pelo vírus

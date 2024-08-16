@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/antibioticos/antibioticos/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/antibioticos/antibioticos/","tags":["review"]}
 ---
 
 # Inibidores de síntese de parede

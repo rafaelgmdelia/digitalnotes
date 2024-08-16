@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/lar-cs/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/lar-cs/","tags":["review"]}
 ---
 
 # DIU de cobre
@@ -13,7 +13,7 @@
 - Terapia de reposição hormonal
 - [[MedNotas/GO/Gineco/Contracepção/Índice de Pearl\|Índice de Pearl]] 0,2
 - Contraindicações:
-	- condições infecciosas ex DIP atual
+	- condições infecciosas (ex DIP atual)
 	- Distorções anatômicas
 	- Neoplasias ginecológicas
 	- [[MedNotas/Clínica Médica/Reumato/Lúpus Eritematoso Sistêmico\|LES]] com ACA positivo

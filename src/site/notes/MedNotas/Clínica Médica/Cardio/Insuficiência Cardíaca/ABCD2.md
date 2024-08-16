@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/abcd-2/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/abcd-2/","tags":["review"]}
 ---
 
 # A

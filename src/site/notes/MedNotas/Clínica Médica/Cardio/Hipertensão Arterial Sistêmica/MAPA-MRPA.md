@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/mapa-mrpa/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/mapa-mrpa/","tags":["review"]}
 ---
 
 # MAPA

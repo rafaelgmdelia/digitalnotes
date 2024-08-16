@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/miocardite/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/miocardite/","tags":["review"]}
 ---
 
 # Etiologias

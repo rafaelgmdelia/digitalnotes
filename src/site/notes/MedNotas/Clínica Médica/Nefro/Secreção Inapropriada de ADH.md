@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/secrecao-inapropriada-de-adh/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/secrecao-inapropriada-de-adh/","tags":["review"]}
 ---
 
 # Critérios diagnósticos

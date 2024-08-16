@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-perfurativo/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-perfurativo/","tags":["review"]}
 ---
 
 # Quadro clínico
-- História de úlcera péptica
+- História de [[MedNotas/Cirurgia Geral/Síndrome Dispéptica/Doença Ulcerosa Péptica\|Doença Ulcerosa Péptica]]
 - Dor súbita
 - Abdome em tábua
 - História de abuso de AINE

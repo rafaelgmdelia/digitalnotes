@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/estenose-mitral/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/estenose-mitral/","tags":["review"]}
 ---
 
 Restrição do fluxo sanguíneo AE -> VE

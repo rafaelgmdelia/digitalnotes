@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/doenca-inflamatoria-pelvica/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/doenca-inflamatoria-pelvica/","tags":["review"]}
 ---
 
 - Pacientes sexualmente ativas com fatores de risco

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/valvopatias/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/valvopatias/","tags":["review"]}
 ---
 
 # Estratificação

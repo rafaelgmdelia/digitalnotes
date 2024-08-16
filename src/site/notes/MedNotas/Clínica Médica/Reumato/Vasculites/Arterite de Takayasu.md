@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/arterite-de-takayasu/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/arterite-de-takayasu/","tags":["review"]}
 ---
 
 - Mulheres jovens (< 40 anos), asiáticas

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/tremor/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/tremor/","tags":["review"]}
 ---
 
 # Classificação

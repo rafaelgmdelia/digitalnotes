@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/doencas-orificiais/hemorroidas/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/doencas-orificiais/hemorroidas/","tags":["review"]}
 ---
 
 # Quadro clínico

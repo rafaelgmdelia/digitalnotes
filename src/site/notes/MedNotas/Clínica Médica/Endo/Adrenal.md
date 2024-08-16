@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/adrenal/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/adrenal/","tags":["review"]}
 ---
 
 # Zona Glomerulosa 

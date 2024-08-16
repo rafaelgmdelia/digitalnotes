@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/vasculites/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/vasculites/","tags":["review"]}
 ---
 
 # Grandes vasos

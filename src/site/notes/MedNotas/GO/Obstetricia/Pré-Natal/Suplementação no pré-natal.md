@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/suplementacao-no-pre-natal/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/suplementacao-no-pre-natal/","tags":["review"]}
 ---
 
 # Ferro elementar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/doencas-do-corpo-uterino-e-endometrio/cancer-de-endometrio/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/doencas-do-corpo-uterino-e-endometrio/cancer-de-endometrio/","tags":["review"]}
 ---
 
 Classificação quanto à histologia

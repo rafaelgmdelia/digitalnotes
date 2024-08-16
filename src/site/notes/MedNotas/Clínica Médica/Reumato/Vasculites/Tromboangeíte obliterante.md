@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/tromboangeite-obliterante/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/tromboangeite-obliterante/","tags":["review"]}
 ---
 
 

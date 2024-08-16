@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/sindrome-hepatorrenal/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/sindrome-hepatorrenal/","tags":["review"]}
 ---
 
 - Disfunção renal associada a cirrose hepática

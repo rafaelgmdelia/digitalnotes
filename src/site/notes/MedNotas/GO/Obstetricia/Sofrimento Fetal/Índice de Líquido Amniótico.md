@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/indice-de-liquido-amniotico/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/indice-de-liquido-amniotico/","tags":["review"]}
 ---
 
 

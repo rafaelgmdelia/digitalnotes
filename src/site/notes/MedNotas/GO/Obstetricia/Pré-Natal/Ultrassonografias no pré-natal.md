@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/ultrassonografias-no-pre-natal/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/ultrassonografias-no-pre-natal/","tags":["review"]}
 ---
 
 - US inicial: 6-8 semanas -> datação da gestação

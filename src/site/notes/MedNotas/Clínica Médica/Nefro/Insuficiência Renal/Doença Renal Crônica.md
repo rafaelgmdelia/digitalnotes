@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/insuficiencia-renal/doenca-renal-cronica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/insuficiencia-renal/doenca-renal-cronica/","tags":["review"]}
 ---
 
 Presença de anormalidade estrutural ou funcionial >= 3 meses

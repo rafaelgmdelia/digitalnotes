@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/vasculite-por-ig-a/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/vasculite-por-ig-a/","tags":["review"]}
 ---
 
 - Vasculite mais frequente da infância

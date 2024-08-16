@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/insuficiencia-aortica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/insuficiencia-aortica/","tags":["review"]}
 ---
 
 # Etiologias

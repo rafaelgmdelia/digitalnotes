@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/sifilis-congenita/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/sifilis-congenita/","tags":["review"]}
 ---
 
 

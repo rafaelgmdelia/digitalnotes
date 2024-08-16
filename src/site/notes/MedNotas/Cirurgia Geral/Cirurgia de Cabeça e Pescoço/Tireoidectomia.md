@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/cirurgia-de-cabeca-e-pescoco/tireoidectomia/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/cirurgia-de-cabeca-e-pescoco/tireoidectomia/","tags":["review"]}
 ---
 
 # Complicações imediatas

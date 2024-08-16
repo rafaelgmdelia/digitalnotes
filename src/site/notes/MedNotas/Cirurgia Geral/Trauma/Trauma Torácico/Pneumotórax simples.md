@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/pneumotorax-simples/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/pneumotorax-simples/","tags":["review"]}
 ---
 
 # Exames complementares

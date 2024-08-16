@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-dispeptica/sindrome-de-zollinger-ellison/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-dispeptica/sindrome-de-zollinger-ellison/","tags":["review"]}
 ---
 
 - **Hipersecreção ácida** -> doença péptica importante

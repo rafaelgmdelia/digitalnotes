@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/metodos-hormonais/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/metodos-hormonais/","tags":["review"]}
 ---
 
 # Anticoncepcionais Combinados

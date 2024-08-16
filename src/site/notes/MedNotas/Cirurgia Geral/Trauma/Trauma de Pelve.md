@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-de-pelve/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-de-pelve/","tags":["review"]}
 ---
 
-Contraindicação de sondagem vesical
+# Contraindicação de sondagem vesical
 - Uretrorragia
 - Hematoma escrotal
 - -> suspeitar de [[MedNotas/Cirurgia Geral/Trauma/Trauma de Uretra\|Trauma de Uretra]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/sindrome-coronariana/sindrome-coronariana-cronica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/sindrome-coronariana/sindrome-coronariana-cronica/","tags":["review"]}
 ---
 
 # Exames complementares

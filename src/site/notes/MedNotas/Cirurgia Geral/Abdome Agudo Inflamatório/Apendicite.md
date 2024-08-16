@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-inflamatorio/apendicite/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-inflamatorio/apendicite/","tags":["review"]}
 ---
 
 # Quadro clínico

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-isquemico/abdome-agudo-isquemico/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-isquemico/abdome-agudo-isquemico/","tags":["review"]}
 ---
 
 Dor abdominal intensa e exame físico inocente

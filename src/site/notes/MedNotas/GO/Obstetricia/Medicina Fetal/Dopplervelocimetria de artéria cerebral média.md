@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/medicina-fetal/dopplervelocimetria-de-arteria-cerebral-media/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/medicina-fetal/dopplervelocimetria-de-arteria-cerebral-media/","tags":["review"]}
 ---
 
-Anemia leva a redução da viscosidade sanguínea -> aumento da velocidade do pico sistólico
+Anemia promove redução da viscosidade sanguínea -> aumento da velocidade do pico sistólico
 - VelMáx > 1,5 MoM -> anemia fetal grave -> indica cordocentese
 
 Acompanhamento a partir de 20-24 semanas

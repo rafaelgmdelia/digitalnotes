@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/estadiamento-da-neoplasia-de-mama/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/estadiamento-da-neoplasia-de-mama/","tags":["review"]}
 ---
 
 # Tamanho

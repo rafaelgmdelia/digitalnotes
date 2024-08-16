@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/peritonite-bacteriana-secundaria/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/peritonite-bacteriana-secundaria/","tags":["review"]}
 ---
 
 - normalmente secundária a perfuração intestinal

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/perfil-biofisico-fetal/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/perfil-biofisico-fetal/","tags":["review"]}
 ---
 
 - [[MedNotas/GO/Obstetricia/Sofrimento Fetal/Cardiotocografia\|Cardiotocografia]]

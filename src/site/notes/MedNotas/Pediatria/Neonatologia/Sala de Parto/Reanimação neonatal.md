@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/sala-de-parto/reanimacao-neonatal/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/sala-de-parto/reanimacao-neonatal/","tags":["review"]}
 ---
 
 

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-disfagica/hernia-de-hiato/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-disfagica/hernia-de-hiato/","tags":["review"]}
 ---
 

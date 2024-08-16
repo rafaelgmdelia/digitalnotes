@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/esfregaco-de-sangue-periferico/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/esfregaco-de-sangue-periferico/","tags":["review"]}
 ---
 
 

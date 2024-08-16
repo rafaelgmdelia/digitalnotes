@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hepatites-virais/hepatite-a/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hepatites-virais/hepatite-a/","tags":["review"]}
 ---
 
 - Transmissão fecal-oral

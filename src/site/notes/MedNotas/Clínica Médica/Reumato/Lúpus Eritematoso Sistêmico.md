@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/lupus-eritematoso-sistemico/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/lupus-eritematoso-sistemico/","tags":["review"]}
 ---
 
 - Doença inflamatória crônica e autoimune

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/hipotensao-ortostatica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/hipotensao-ortostatica/","tags":["review"]}
 ---
 
 

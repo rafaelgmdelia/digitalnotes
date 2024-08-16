@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/antibioticos/atb-empiricos/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/antibioticos/atb-empiricos/","tags":["review"]}
 ---
 
 # Infecções Respiratórias

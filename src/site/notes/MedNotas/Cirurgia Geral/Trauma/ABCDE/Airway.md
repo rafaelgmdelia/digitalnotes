@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/airway/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/airway/","tags":["review"]}
 ---
 
 # Estabilização de coluna cervical 

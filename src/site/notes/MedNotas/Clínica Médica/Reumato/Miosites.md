@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/miosites/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/miosites/","tags":["review"]}
 ---
 
 # Polimiosite

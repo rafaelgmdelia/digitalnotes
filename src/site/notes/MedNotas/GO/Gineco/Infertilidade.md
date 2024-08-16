@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/infertilidade/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/infertilidade/","tags":["review"]}
 ---
 
 Incapacidade de um **casal** atingir gestação após 12 meses de exposição à gravidez

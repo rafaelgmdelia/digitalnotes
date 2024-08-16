@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/crise-hipertensiva/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/crise-hipertensiva/","tags":["review"]}
 ---
 
 # Definição

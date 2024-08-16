@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/hernias/hernias-indiretas/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/hernias/hernias-indiretas/","tags":["review"]}
 ---
 
 - Mais comum no **sexo masculino**, na **infância** e do **lado direito**

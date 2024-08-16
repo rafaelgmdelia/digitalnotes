@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/neoplasia-invasiva-de-mama/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/neoplasia-invasiva-de-mama/","tags":["review"]}
 ---
 
 # Classificação histológica

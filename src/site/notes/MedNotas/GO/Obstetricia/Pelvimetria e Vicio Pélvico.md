@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pelvimetria-e-vicio-pelvico/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pelvimetria-e-vicio-pelvico/","tags":["review"]}
 ---
 
 

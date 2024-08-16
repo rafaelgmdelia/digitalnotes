@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/imc-para-idade/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/imc-para-idade/","tags":["review"]}
 ---
 
 # IMC para idade

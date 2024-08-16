@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-da-doenca-cronica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-da-doenca-cronica/","tags":["review"]}
 ---
 
 Inflamação -> aumento de hepcidina -> inibição da eritropoese

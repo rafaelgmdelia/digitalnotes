@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/metodos-de-barreira/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/metodos-de-barreira/","tags":["review"]}
 ---
 
 - Condom masculino e feminino

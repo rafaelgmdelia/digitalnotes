@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/contracepcao-de-emergencia/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/contracepcao-de-emergencia/","tags":["review"]}
 ---
 
 - Relação sexual desprotegida

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/tratamento-de-neoplasia-de-mama/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/tratamento-de-neoplasia-de-mama/","tags":["review"]}
 ---
 
 # Estágio inicial

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/pals/parada-cardiorrespiratoria-na-pediatria/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/pals/parada-cardiorrespiratoria-na-pediatria/","tags":["review"]}
 ---
 
 # Ritmo chocável

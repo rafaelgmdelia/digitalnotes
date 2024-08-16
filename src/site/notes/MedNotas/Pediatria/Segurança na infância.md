@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/seguranca-na-infancia/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/seguranca-na-infancia/","tags":["review"]}
 ---
 
 # Acidentes de Trânsito

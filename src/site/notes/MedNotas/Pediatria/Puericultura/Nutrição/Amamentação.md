@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/nutricao/amamentacao/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/nutricao/amamentacao/","tags":["review"]}
 ---
 
 - Exclusiva até os 6 meses
@@ -7,7 +7,7 @@
 
 # Contraindicações
 ## Doenças maternas
-- HIV
+- [[MedNotas/Clínica Médica/MI/HIV/HIV\|HIV]]
 - HTLV
 - Herpes ativo na mama
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/contracepcao/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/contracepcao/","tags":["review"]}
 ---
 
 - [[MedNotas/GO/Gineco/Contracepção/Índice de Pearl\|Índice de Pearl]]

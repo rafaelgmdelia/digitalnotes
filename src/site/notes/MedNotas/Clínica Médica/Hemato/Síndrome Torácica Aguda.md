@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/sindrome-toracica-aguda/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/sindrome-toracica-aguda/","tags":["review"]}
 ---
 
 Infarto em esterno / costela

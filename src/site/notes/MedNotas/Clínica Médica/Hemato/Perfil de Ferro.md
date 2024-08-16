@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/perfil-de-ferro/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/perfil-de-ferro/","tags":["review"]}
 ---
 
 # Perfil de Ferro

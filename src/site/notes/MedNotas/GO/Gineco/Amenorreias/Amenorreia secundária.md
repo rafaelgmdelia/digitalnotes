@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/amenorreias/amenorreia-secundaria/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/amenorreias/amenorreia-secundaria/","tags":["review"]}
 ---
 
 - Excluir gestação

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/violencia-na-infancia/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/violencia-na-infancia/","tags":["review"]}
 ---
 
 # Lesões sugestivas

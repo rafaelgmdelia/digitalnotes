@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/tetralogia-de-fallot/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/tetralogia-de-fallot/","tags":["review"]}
 ---
 
 ### Tetralogia de Fallot

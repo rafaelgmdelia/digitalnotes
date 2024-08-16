@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/paralisia-de-bell/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/paralisia-de-bell/","tags":["review"]}
 ---
 
 - Causa mais comum de paralisia facial periférica

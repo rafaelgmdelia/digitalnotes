@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/regra-de-nagele/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/regra-de-nagele/","tags":["review"]}
 ---
 
 DUM -> d/m/A

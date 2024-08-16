@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/trauma/pecarn/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/trauma/pecarn/","tags":["review"]}
 ---
 
 # Idade menor que 2 anos

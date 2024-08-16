@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/exposition/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/exposition/","tags":["review"]}
 ---
 
 

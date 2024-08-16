@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/imunizacoes/calendario-vacinal/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/imunizacoes/calendario-vacinal/","tags":["review"]}
 ---
 
 # Ao nascer

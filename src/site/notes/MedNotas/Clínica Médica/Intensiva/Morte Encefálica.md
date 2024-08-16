@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/intensiva/morte-encefalica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/intensiva/morte-encefalica/","tags":["review"]}
 ---
 
 - Observação > 6 horas e [[MedNotas/Cirurgia Geral/Trauma/Escala de Coma de Glasgow\|Glasgow]] 3 por causa conhecida

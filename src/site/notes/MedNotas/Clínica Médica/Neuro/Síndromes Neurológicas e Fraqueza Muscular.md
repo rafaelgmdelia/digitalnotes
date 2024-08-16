@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/sindromes-neurologicas-e-fraqueza-muscular/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/sindromes-neurologicas-e-fraqueza-muscular/","tags":["review"]}
 ---
 
 # Primeiro neurônio motor

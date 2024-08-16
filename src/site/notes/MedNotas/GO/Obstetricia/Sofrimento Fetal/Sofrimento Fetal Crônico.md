@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/sofrimento-fetal-cronico/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/sofrimento-fetal-cronico/","tags":["review"]}
 ---
 
 - Insuficiência placentária

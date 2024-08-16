@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/miastenia-gravis/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/miastenia-gravis/","tags":["review"]}
 ---
 
 - Autoanticorpos contra o receptor pós-sináptico de acetilcolina

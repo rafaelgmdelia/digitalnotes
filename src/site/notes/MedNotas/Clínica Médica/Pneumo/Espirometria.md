@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/espirometria/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/espirometria/","tags":["review"]}
 ---
 
 # Parâmetros espirométricos

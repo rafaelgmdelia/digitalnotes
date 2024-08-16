@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-dispeptica/classificacao-de-forrest/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-dispeptica/classificacao-de-forrest/","tags":["review"]}
 ---
 
 

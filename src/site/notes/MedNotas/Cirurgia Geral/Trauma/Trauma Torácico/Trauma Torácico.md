@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/trauma-toracico/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/trauma-toracico/","tags":["review"]}
 ---
 
 # [[MedNotas/Cirurgia Geral/Trauma/Trauma Torácico/Pneumotórax Hipertensivo\|Pneumotórax Hipertensivo]]

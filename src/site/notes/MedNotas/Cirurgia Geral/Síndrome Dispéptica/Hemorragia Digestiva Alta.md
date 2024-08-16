@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-dispeptica/hemorragia-digestiva-alta/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-dispeptica/hemorragia-digestiva-alta/","tags":["review"]}
 ---
 
 # Quadro clínico
@@ -35,7 +35,7 @@
 ## TIPS
 - Shunt portossistêmico transjugular intra-hepático
 - Etiologia varicosa
-- Contraindicação -> IC direita
+- Contraindicação -> [[MedNotas/Clínica Médica/Cardio/Insuficiência Cardíaca/Insuficiência Cardíaca\|IC]] direita
 ## Profilaxia primária
 - **Carvedilol**
 - Indicação -> [[MedNotas/Clínica Médica/Hepato/Hipertensão portal\|Hipertensão portal]] clinicamente significativa

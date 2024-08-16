@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sangramento-de-primeira-metade/gestacao-ectopica/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sangramento-de-primeira-metade/gestacao-ectopica/","tags":["review"]}
 ---
 
 # Conduta expectante

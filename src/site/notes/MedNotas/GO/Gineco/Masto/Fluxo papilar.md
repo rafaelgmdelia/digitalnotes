@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/fluxo-papilar/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/fluxo-papilar/","tags":["review"]}
 ---
 
 # Características de malignidade

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/cirurgia-de-cabeca-e-pescoco/trauma-de-face/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/cirurgia-de-cabeca-e-pescoco/trauma-de-face/","tags":["review"]}
 ---
 
 **Tomografia computadorizada com reconstrução 3D** -> Exame padrão-ouro

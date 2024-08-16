@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/nutricao/suplementacao/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/nutricao/suplementacao/","tags":["review"]}
 ---
 
 # Vitamina D

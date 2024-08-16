@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/cardiomiopatia-chagasica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/cardiomiopatia-chagasica/","tags":["review"]}
 ---
 
 - Doença de Chagas

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/hiv-na-gestacao/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/hiv-na-gestacao/","tags":["review"]}
 ---
 
 # Indicações de parto e AZT intraparto

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-dispeptica/doenca-ulcerosa-peptica/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-dispeptica/doenca-ulcerosa-peptica/","tags":["review"]}
 ---
 
 - Úlceras: > 5 mm de profundidade

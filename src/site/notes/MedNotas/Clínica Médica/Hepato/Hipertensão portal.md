@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/hipertensao-portal/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/hipertensao-portal/","tags":["review"]}
 ---
 
 

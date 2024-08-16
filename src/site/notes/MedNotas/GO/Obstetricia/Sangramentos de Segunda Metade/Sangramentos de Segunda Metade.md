@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sangramentos-de-segunda-metade/sangramentos-de-segunda-metade/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sangramentos-de-segunda-metade/sangramentos-de-segunda-metade/","tags":["review"]}
 ---
 
 # Descolamento Prematuro de Placenta

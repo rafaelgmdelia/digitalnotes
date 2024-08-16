@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/perimetro-cefalico/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/perimetro-cefalico/","tags":["review"]}
 ---
 
 # Perímetro cefálico

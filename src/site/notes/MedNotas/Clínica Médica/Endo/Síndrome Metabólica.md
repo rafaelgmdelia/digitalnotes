@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/sindrome-metabolica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/sindrome-metabolica/","tags":["review"]}
 ---
 
 # Critérios Diagnósticos

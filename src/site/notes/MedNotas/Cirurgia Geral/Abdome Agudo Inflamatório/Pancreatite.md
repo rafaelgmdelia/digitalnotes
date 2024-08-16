@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-inflamatorio/pancreatite/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-inflamatorio/pancreatite/","tags":["review"]}
 ---
 
 

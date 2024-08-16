@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-inflamatorio/diverticulite/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-inflamatorio/diverticulite/","tags":["review"]}
 ---
 
 # Quadro Clínico

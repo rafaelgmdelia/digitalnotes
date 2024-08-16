@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/teste-do-olhinho/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/teste-do-olhinho/","tags":["review"]}
 ---
 
 Reflexo do olho vermelho

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/hiperparatireoidismo/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/hiperparatireoidismo/","tags":["review"]}
 ---
 
 # Hiperparatireoidismo primário

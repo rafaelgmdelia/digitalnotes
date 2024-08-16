@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/disturbios-metabolicos/hipoglicemia-neonatal/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/disturbios-metabolicos/hipoglicemia-neonatal/","tags":["review"]}
 ---
 
 # Definição

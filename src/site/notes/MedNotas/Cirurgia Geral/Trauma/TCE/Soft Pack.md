@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/tce/soft-pack/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/tce/soft-pack/","tags":["review"]}
 ---
 
 # Oxigenação adequada + Reanimação volêmica

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/protocolo-blue/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/protocolo-blue/","tags":["review"]}
 ---
 
 

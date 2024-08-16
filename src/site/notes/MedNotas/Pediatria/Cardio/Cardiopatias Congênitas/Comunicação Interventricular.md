@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/comunicacao-interventricular/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/comunicacao-interventricular/","tags":["review"]}
 ---
 
 ### Comunicação Interventricular

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/mastalgia/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/mastalgia/","tags":["review"]}
 ---
 
 # Cíclicas

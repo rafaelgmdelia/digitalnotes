@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/amenorreias/amenorreia-primaria/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/amenorreias/amenorreia-primaria/","tags":["review"]}
 ---
 
 - **Amenorreia primária:** nunca menstruou

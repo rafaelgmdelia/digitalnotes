@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/dispositivo-de-oferta-de-oxigenio/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/dispositivo-de-oferta-de-oxigenio/","tags":["review"]}
 ---
 
 # Cateter nasal

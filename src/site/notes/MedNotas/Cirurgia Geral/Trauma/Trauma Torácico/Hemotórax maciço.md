@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/hemotorax-macico/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/hemotorax-macico/","tags":["review"]}
 ---
 
 - RX de Tórax -> Velamento de hemitórax

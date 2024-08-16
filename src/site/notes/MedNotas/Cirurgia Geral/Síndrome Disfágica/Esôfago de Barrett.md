@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-disfagica/esofago-de-barrett/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-disfagica/esofago-de-barrett/","tags":["review"]}
 ---
 
 

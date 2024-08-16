@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/arterite-de-celulas-gigantes/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/arterite-de-celulas-gigantes/","tags":["review"]}
 ---
 
-- Forma mais comum de vasculoite sistêmica em adultos
+- Forma mais comum de vasculite sistêmica em adultos
 - Mulheres brancas > 50 anos
 - Inflamação granulomatosa de vasos de grande e médio calibre
 - Associação com [[MedNotas/Clínica Médica/Reumato/Vasculites/Polimialgia Reumática\|Polimialgia Reumática]]

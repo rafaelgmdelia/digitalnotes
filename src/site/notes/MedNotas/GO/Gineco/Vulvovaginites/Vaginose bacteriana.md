@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/vaginose-bacteriana/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/vaginose-bacteriana/","tags":["review"]}
 ---
 
 1ª causa de corrimento

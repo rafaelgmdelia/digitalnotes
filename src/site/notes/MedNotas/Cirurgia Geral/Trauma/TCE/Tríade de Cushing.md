@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/tce/triade-de-cushing/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/tce/triade-de-cushing/","tags":["review"]}
 ---
 
 # 1. Hipertensão arterial

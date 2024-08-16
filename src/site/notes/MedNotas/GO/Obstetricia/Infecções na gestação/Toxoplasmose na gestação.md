@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/toxoplasmose-na-gestacao/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/toxoplasmose-na-gestacao/","tags":["review"]}
 ---
 
 - IgM tem duração de 16 semanas

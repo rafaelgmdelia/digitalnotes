@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/tce/espacos-e-meninges/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/tce/espacos-e-meninges/","tags":["review"]}
 ---
 
 - # Pele

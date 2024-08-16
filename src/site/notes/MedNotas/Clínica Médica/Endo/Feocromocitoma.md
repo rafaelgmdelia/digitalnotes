@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/feocromocitoma/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/feocromocitoma/","tags":["review"]}
 ---
 
 Tumor secretor de catecolaminas na adrenal ou paragangliomas

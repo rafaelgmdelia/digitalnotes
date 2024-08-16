@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/fases-do-ciclo-menstrual/eixo-hipotalamo-hipofise-ovariano/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/fases-do-ciclo-menstrual/eixo-hipotalamo-hipofise-ovariano/","tags":["review"]}
 ---
 
 # Eixo hipotálamo-hipófise-ovariano

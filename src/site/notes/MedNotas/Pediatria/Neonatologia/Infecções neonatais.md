@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/infeccoes-neonatais/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/infeccoes-neonatais/","tags":["review"]}
 ---
 
 # Sepse neonatal

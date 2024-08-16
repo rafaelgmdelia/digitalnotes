@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/candidiase-vulvovaginal/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/candidiase-vulvovaginal/","tags":["review"]}
 ---
 
 2ª principal causa de corrimento

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/medicina-fetal/doenca-hemolitica-perinatal/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/medicina-fetal/doenca-hemolitica-perinatal/","tags":["review"]}
 ---
 
 Ac maternos contra antígenos do sangue fetal

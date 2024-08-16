@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hepatites-virais/hepatite-c/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hepatites-virais/hepatite-c/","tags":["review"]}
 ---
 
 - Incubação: 6 a 7 semanas

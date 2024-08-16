@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/embolia-pulmonar/tromboembolismo-pulmonar/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/embolia-pulmonar/tromboembolismo-pulmonar/","tags":["review"]}
 ---
 
 

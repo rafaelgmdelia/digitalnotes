@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/sindrome-de-behcet/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/sindrome-de-behcet/","tags":["review"]}
 ---
 
 - Doença multissistêmica, vasculite de vasos de calibre variado, arteriais e venosos

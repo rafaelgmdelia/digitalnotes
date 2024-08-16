@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/doencas-do-corpo-uterino-e-endometrio/hiperplasia-endometrial/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/doencas-do-corpo-uterino-e-endometrio/hiperplasia-endometrial/","tags":["review"]}
 ---
 
 Lesão precursora do adenocarcinoma endometrial

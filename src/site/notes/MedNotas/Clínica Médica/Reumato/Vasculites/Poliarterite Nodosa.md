@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/poliarterite-nodosa/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/poliarterite-nodosa/","tags":["review"]}
 ---
 
 - Homem de meia-dade

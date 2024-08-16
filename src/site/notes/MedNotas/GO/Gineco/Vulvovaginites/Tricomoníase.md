@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/tricomoniase/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/tricomoniase/","tags":["review"]}
 ---
 
 3ª principal causa de corrimento

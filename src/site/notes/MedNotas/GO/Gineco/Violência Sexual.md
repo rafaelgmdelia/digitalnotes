@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/violencia-sexual/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/violencia-sexual/","tags":["review"]}
 ---
 
 - Acolhimento

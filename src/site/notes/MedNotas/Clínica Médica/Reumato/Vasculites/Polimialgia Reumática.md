@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/polimialgia-reumatica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/polimialgia-reumatica/","tags":["review"]}
 ---
 
 - Não é vasculite

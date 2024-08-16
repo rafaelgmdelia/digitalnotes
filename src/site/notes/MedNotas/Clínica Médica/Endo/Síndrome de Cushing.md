@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/sindrome-de-cushing/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/sindrome-de-cushing/","tags":["review"]}
 ---
 
 - Hipercortisolismo

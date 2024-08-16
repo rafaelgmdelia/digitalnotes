@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/osteoporose/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/osteoporose/","tags":["review"]}
 ---
 
 # Diagnóstico

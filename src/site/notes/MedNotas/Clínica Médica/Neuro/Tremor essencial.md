@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/tremor-essencial/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/tremor-essencial/","tags":["review"]}
 ---
 
 - Principal causa de tremor em adultos

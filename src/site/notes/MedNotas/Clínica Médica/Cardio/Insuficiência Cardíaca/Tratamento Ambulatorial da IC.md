@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/tratamento-ambulatorial-da-ic/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/tratamento-ambulatorial-da-ic/","tags":["review"]}
 ---
 
 

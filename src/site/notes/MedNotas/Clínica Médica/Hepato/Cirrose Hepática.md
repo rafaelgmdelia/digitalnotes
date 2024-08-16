@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/cirrose-hepatica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/cirrose-hepatica/","tags":["review"]}
 ---
 
 

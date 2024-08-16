@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/tumores-de-ovario/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/tumores-de-ovario/","tags":["review"]}
 ---
 
 - Pré-pubere -> 

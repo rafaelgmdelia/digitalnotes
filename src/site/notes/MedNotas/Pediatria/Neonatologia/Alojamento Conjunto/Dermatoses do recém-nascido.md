@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/dermatoses-do-recem-nascido/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/dermatoses-do-recem-nascido/","tags":["review"]}
 ---
 
 - # Melanose pustulosa neonatal

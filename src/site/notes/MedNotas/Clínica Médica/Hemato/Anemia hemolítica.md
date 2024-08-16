@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-hemolitica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-hemolitica/","tags":["review"]}
 ---
 
 Anemia **hiperproliferativa** (reticulocitose)

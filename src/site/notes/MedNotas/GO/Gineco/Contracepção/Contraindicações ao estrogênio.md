@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/contraindicacoes-ao-estrogenio/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/contraindicacoes-ao-estrogenio/","tags":["review"]}
 ---
 
 # Categoria 4
@@ -14,7 +14,7 @@
 	- > 35 anos + > 15 cigarros/dia
 - Câncer de mama atual
 - [[MedNotas/Clínica Médica/Hepato/Cirrose Hepática\|Cirrose]] descompensada, adenoma hepatocelular 
-- Amamentação (< 6 semanas após parto)
+- [[MedNotas/Pediatria/Puericultura/Nutrição/Amamentação\|Amamentação]] (< 6 semanas após parto)
 - Cirurgias grandes com imobilização prolongada
 - Lúpus Eritematoso Sistêmico
 	- com ACA positivo ou desconhecido

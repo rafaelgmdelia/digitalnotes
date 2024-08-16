@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/doencas-orificiais/fistulas-anorretais/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/doencas-orificiais/fistulas-anorretais/","tags":["review"]}
 ---
 
 - Saída constante de secreção pela região perianal

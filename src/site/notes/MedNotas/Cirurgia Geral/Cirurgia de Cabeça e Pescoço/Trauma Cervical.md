@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/cirurgia-de-cabeca-e-pescoco/trauma-cervical/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/cirurgia-de-cabeca-e-pescoco/trauma-cervical/","tags":["review"]}
 ---
 
 # Zonas Cervicais
@@ -28,10 +28,10 @@ Estáve hemodinamicamente e sem *Hard Signs*
 - Investigação de TGI -> EDA e/ou esofagograma
 
 # AngioTC no trauma cervical contuso
-- **Fratura de vértebra cinervical**
+- **Fratura de vértebra cervical**
 - Fratura com desvio Le Fort II ou III
 - Fratura de mandíbula ou base de crânio
-- Imagem sugestiva de Lesão Axonal Difusa com Glasgow < 6
+- Imagem sugestiva de Lesão Axonal Difusa com [[MedNotas/Cirurgia Geral/Trauma/Escala de Coma de Glasgow\|Glasgow]] < 6
 - Trauma raqui-medular cervical
 - Tentativa de enforcamento
 - Sinal do cinto de segurança

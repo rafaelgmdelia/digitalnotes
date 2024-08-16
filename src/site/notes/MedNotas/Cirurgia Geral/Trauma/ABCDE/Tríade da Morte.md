@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/triade-da-morte/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/triade-da-morte/","tags":["review"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/pals/choque-na-pediatria/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/pals/choque-na-pediatria/","tags":["review"]}
 ---
 
 # Limite inferior da PA sistólica

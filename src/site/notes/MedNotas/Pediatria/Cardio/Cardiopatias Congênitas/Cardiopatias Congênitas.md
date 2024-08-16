@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/cardiopatias-congenitas/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/cardiopatias-congenitas/","tags":["review"]}
 ---
 
 O defeito congênito mais comum de todos.

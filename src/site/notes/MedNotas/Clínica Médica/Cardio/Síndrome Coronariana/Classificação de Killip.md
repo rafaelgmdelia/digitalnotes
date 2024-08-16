@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/sindrome-coronariana/classificacao-de-killip/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/sindrome-coronariana/classificacao-de-killip/","tags":["review"]}
 ---
 
 | Killip | Clínica                 | Mortalidade |

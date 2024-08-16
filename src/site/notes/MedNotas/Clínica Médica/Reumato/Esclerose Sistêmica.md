@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/esclerose-sistemica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/esclerose-sistemica/","tags":["review"]}
 ---
 
 - Dano vascular -> Isquemia vascular

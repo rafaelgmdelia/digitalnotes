@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/hemotorax/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/hemotorax/","tags":["review"]}
 ---
 
 - Rotura dos vasos intercostais

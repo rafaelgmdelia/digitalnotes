@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/peso-para-idade/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/peso-para-idade/","tags":["review"]}
 ---
 
 # Peso para idade 

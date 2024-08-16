@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/doencas-orificiais/fissuras-anais/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/doencas-orificiais/fissuras-anais/","tags":["review"]}
 ---
 
 - Dor intensa

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/ecg/sobrecargas/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/ecg/sobrecargas/","tags":["review"]}
 ---
 
 # Atriais (onda P)

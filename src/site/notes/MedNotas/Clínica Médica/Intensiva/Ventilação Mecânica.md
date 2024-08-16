@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/intensiva/ventilacao-mecanica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/intensiva/ventilacao-mecanica/","tags":["review"]}
 ---
 
 # Modos 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/sindrome-coronariana/heart-score/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/sindrome-coronariana/heart-score/","tags":["review"]}
 ---
 
 Útil para estratificar risco de [[MedNotas/Clínica Médica/Cardio/Síndrome Coronariana/Síndrome Coronariana Aguda\|SCA]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/ecg/bloqueios/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/ecg/bloqueios/","tags":["review"]}
 ---
 
 Condução está lentificada ou bloqueada e segue o caminho por outro ramo

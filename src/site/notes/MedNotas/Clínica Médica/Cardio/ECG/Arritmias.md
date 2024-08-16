@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/ecg/arritmias/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/ecg/arritmias/","tags":["review"]}
 ---
 
 Alteração em origem, frequência ou condução do estímulo

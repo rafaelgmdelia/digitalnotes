@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/pneumointensiva/capnografia/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/pneumointensiva/capnografia/","tags":["review"]}
 ---
 
 - Curva progressivamente maior -> hipoventilação

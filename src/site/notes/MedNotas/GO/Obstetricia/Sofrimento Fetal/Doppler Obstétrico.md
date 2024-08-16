@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/doppler-obstetrico/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/doppler-obstetrico/","tags":["review"]}
 ---
 
 - Quantificar o fluxo sanguíneo e a resistência desses vasos

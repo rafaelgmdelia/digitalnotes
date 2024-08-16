@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/insuficiencia-renal/insuficiencia-renal-aguda/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/insuficiencia-renal/insuficiencia-renal-aguda/","tags":["review"]}
 ---
 
 

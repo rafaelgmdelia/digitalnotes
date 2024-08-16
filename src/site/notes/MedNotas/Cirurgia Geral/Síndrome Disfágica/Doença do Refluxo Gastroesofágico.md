@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-disfagica/doenca-do-refluxo-gastroesofagico/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-disfagica/doenca-do-refluxo-gastroesofagico/","tags":["review"]}
 ---
 
 - Pirose + regurgitação

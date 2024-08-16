@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/desenvolvimento/reflexos-primitivos/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/desenvolvimento/reflexos-primitivos/","tags":["review"]}
 ---
 
 

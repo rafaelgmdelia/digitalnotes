@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/hiperaldosteronismo-primario/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/hiperaldosteronismo-primario/","tags":["review"]}
 ---
 
 # Diagnóstico

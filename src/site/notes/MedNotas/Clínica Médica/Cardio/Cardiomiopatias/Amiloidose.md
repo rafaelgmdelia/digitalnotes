@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/amiloidose/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/amiloidose/","tags":["review"]}
 ---
 
 # Sinais e sintomas

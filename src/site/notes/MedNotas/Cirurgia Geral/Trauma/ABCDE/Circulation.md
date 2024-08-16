@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/circulation/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/circulation/","tags":["review"]}
 ---
 
 A hemorragia é a principal causa de morte evitável no trauma

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/sala-de-parto/sala-de-parto/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/sala-de-parto/sala-de-parto/","tags":["review"]}
 ---
 
 # 1. Preparação

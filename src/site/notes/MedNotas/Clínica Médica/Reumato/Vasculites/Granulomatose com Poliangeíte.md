@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/granulomatose-com-poliangeite/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/granulomatose-com-poliangeite/","tags":["review"]}
 ---
 
 - Vasculite granulomatosa com envolvimento de trato respiratório alto

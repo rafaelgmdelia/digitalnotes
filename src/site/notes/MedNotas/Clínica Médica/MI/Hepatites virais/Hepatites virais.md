@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hepatites-virais/hepatites-virais/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hepatites-virais/hepatites-virais/","tags":["review"]}
 ---
 
 - **Aguda**: < 6 meses

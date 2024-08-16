@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/vias-biliares/colangite/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/vias-biliares/colangite/","tags":["review"]}
 ---
 
 # Tríade de Charcot

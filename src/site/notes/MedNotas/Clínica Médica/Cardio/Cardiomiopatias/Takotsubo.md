@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/takotsubo/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/takotsubo/","tags":["review"]}
 ---
 
 - Síndrome do coração partido

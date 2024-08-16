@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-sideroblastica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-sideroblastica/","tags":["review"]}
 ---
 
 Deficiência na síntese do grupo heme

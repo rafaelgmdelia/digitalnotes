@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/disturbios-obstrutivos/dpoc/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/disturbios-obstrutivos/dpoc/","tags":["review"]}
 ---
 
 # Fisiopatologia

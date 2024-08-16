@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/fibrilacao-atrial/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/fibrilacao-atrial/","tags":["review"]}
 ---
 
 # Instável

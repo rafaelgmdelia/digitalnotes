@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/fases-do-ciclo-menstrual/foliculogenese/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/fases-do-ciclo-menstrual/foliculogenese/","tags":["review"]}
 ---
 
 # Foliculogênese

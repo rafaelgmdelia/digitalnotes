@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/hernias/hernia-femoral/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/hernias/hernia-femoral/","tags":["review"]}
 ---
 
 - Estrangula mais facilmente

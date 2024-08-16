@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/persistencia-do-canal-arterial/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/persistencia-do-canal-arterial/","tags":["review"]}
 ---
 
 ### Persistência do canal arterial

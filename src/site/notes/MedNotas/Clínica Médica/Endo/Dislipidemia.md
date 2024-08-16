@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/dislipidemia/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/dislipidemia/","tags":["review"]}
 ---
 
 # Classificação

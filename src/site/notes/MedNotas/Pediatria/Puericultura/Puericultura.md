@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/puericultura/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/puericultura/","tags":["review"]}
 ---
 
 - Acompanhamento do [[MedNotas/Pediatria/Puericultura/Crescimento/Crescimento\|Crescimento]] e [[MedNotas/Pediatria/Puericultura/Desenvolvimento/Desenvolvimento\|Desenvolvimento]] das crianças

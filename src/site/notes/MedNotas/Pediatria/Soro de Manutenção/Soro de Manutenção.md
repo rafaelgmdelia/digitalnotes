@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/soro-de-manutencao/soro-de-manutencao/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/soro-de-manutencao/soro-de-manutencao/","tags":["review"]}
 ---
 
 

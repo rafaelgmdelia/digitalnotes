@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/cardiotocografia/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/cardiotocografia/","tags":["review"]}
 ---
 
 - A partir de 26 semanas
@@ -35,7 +35,7 @@
 - Hipoativo : 2 e 3 pontos -> estímulo
 	- reativo: aumento 20bpm por 3min
 	- hiporreativo: < 20bpm ou < 3min
-- Inativo: 0 e 1 -> Perfil Biofísico Fetal
+- Inativo: 0 e 1 -> [[MedNotas/GO/Obstetricia/Sofrimento Fetal/Perfil Biofísico Fetal\|Perfil Biofísico Fetal]]
 
 # Intraparto
 ## Categoria 1

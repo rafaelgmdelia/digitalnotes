@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/holliday-segar/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/holliday-segar/","tags":["review"]}
 ---
 
 - < 10 kg -> 100ml/kg

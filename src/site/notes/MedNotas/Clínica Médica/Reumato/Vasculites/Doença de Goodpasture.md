@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/doenca-de-goodpasture/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/doenca-de-goodpasture/","tags":["review"]}
 ---
 
 - Anticorpo antimembrana basal glomerular (Anti-MBG) ->

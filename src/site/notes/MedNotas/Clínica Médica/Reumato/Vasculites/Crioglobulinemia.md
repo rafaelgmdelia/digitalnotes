@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/crioglobulinemia/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/crioglobulinemia/","tags":["review"]}
 ---
 
 - Mulheres

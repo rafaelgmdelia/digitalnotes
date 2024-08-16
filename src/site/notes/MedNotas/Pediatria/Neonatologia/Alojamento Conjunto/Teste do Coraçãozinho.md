@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/teste-do-coracaozinho/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/teste-do-coracaozinho/","tags":["review"]}
 ---
 
 Triagem universal entre 24-48h de vida

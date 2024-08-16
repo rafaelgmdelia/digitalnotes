@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sangramento-de-primeira-metade/abortamento/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sangramento-de-primeira-metade/abortamento/","tags":["review"]}
 ---
 
 # Ameaça

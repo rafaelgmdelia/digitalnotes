@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/doenca-falciforme/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/doenca-falciforme/","tags":["review"]}
 ---
 
 Mutação no gene da beta globina -> formação de Hb anormal (HbS)

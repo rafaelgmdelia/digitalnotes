@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/antibioticos/bacterias/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/antibioticos/bacterias/","tags":["review"]}
 ---
 
 

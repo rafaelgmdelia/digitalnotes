@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/insuficiencia-cardiaca-descompensada/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/insuficiencia-cardiaca-descompensada/","tags":["review"]}
 ---
 
 

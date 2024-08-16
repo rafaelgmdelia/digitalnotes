@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-abdominal/hipertensao-intra-abdominal/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-abdominal/hipertensao-intra-abdominal/","tags":["review"]}
 ---
 
 

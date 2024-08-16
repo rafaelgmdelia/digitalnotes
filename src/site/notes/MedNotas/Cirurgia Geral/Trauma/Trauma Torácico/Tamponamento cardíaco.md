@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/tamponamento-cardiaco/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/tamponamento-cardiaco/","tags":["review"]}
 ---
 
 # Tríade de Beck

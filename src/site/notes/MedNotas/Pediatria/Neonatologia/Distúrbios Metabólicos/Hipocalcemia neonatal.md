@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/disturbios-metabolicos/hipocalcemia-neonatal/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/disturbios-metabolicos/hipocalcemia-neonatal/","tags":["review"]}
 ---
 
 # Manifestações clínicas

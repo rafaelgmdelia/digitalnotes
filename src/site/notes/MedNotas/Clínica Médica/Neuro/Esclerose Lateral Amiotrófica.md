@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/esclerose-lateral-amiotrofica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/esclerose-lateral-amiotrofica/","tags":["review"]}
 ---
 
 - Homens > 60 anos

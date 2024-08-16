@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/palm-coein/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/palm-coein/","tags":["review"]}
 ---
 
 # Pólipos

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/manobra-de-barlow-e-ortolani/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/manobra-de-barlow-e-ortolani/","tags":["review"]}
 ---
 
 # Manobra de Ortolani

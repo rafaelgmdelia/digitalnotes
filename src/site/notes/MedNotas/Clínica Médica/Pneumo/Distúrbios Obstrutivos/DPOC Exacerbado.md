@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/disturbios-obstrutivos/dpoc-exacerbado/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/disturbios-obstrutivos/dpoc-exacerbado/","tags":["review"]}
 ---
 
 # Critérios de Anthonisen

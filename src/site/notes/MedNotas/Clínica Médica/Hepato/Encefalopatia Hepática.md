@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/encefalopatia-hepatica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/encefalopatia-hepatica/","tags":["review"]}
 ---
 
 - Síndrome neuropsiquiátrica por acúmulo de substâncias tóxicas (amônia)

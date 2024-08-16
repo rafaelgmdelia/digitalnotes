@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hiv/hiv/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/mi/hiv/hiv/","tags":["review"]}
 ---
 
 # O vírus

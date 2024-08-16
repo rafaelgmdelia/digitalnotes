@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/gradiente-albumina-soro-ascite/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/gradiente-albumina-soro-ascite/","tags":["review"]}
 ---
 
 - Albumina sérica - Albumina líquido ascítico

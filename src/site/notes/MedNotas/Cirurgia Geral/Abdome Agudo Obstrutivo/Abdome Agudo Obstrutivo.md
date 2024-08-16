@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-obstrutivo/abdome-agudo-obstrutivo/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-obstrutivo/abdome-agudo-obstrutivo/","tags":["review"]}
 ---
 
 # Bridas

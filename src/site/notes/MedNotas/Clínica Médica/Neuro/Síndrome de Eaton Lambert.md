@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/sindrome-de-eaton-lambert/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/sindrome-de-eaton-lambert/","tags":["review"]}
 ---
 
 - Autoanticorpos contra o receptor do canal de Ca

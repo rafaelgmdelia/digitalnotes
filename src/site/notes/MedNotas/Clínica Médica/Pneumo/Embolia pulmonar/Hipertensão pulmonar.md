@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/embolia-pulmonar/hipertensao-pulmonar/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/embolia-pulmonar/hipertensao-pulmonar/","tags":["review"]}
 ---
 
 Pressão arterial pulmonar média > 20 mmHg em repouso

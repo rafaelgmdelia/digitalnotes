@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/onco-hematologia/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/onco-hematologia/","tags":["review"]}
 ---
 
 # Leucemias Agudas

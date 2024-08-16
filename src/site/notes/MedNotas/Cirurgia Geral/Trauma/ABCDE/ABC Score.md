@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/abc-score/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/abc-score/","tags":["review"]}
 ---
 
 # Assessment of Blood Consumption

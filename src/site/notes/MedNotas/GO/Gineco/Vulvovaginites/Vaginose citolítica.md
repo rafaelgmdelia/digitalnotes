@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/vaginose-citolitica/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/vaginose-citolitica/","tags":["review"]}
 ---
 
 Parece cândida

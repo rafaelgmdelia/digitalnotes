@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-disfagica/acalasia/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/sindrome-disfagica/acalasia/","tags":["review"]}
 ---
 
 - Idioática ou Chafas

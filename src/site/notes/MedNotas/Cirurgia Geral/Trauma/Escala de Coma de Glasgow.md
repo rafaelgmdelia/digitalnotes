@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/escala-de-coma-de-glasgow/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/escala-de-coma-de-glasgow/","tags":["review"]}
 ---
 
 

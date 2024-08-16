@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/imunizacoes/vacina-bcg/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/imunizacoes/vacina-bcg/","tags":["review"]}
 ---
 
 Reduz formas graves da TB

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/restricao-de-crescimento-fetal/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/restricao-de-crescimento-fetal/","tags":["review"]}
 ---
 
 - uma das manifestações do [[MedNotas/GO/Obstetricia/Sofrimento Fetal/Sofrimento Fetal Crônico\|Sofrimento Fetal Crônico]]

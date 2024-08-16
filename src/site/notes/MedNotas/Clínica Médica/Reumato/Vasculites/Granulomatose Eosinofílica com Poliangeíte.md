@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/granulomatose-eosinofilica-com-poliangeite/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/vasculites/granulomatose-eosinofilica-com-poliangeite/","tags":["review"]}
 ---
 
 - **G**ranulomas

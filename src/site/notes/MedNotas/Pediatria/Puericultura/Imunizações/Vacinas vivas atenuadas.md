@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/imunizacoes/vacinas-vivas-atenuadas/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/imunizacoes/vacinas-vivas-atenuadas/","tags":["review"]}
 ---
 
 # Vacinas vivas atenuadas

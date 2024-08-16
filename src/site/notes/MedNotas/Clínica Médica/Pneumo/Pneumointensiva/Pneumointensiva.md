@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/pneumointensiva/pneumointensiva/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/pneumointensiva/pneumointensiva/","tags":["review"]}
 ---
 
 # [[MedNotas/Clínica Médica/Pneumo/Pneumointensiva/Intubação em Sequência Rápida (ISR)\|Sequência Rápida de Intubação]]

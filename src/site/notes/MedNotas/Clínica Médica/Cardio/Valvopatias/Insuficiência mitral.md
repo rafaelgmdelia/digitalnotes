@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/insuficiencia-mitral/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/insuficiencia-mitral/","tags":["review"]}
 ---
 
 # Etiologia

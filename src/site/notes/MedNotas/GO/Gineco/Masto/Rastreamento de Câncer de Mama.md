@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/rastreamento-de-cancer-de-mama/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/masto/rastreamento-de-cancer-de-mama/","tags":["review"]}
 ---
 
 Exame definitivo -> **Mamografia**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/estatura-para-idade/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/estatura-para-idade/","tags":["review"]}
 ---
 
 # Estatura para idade

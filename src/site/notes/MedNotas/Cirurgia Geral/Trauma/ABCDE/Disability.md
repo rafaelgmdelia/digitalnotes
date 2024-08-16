@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/disability/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/disability/","tags":["review"]}
 ---
 
 # [[MedNotas/Cirurgia Geral/Trauma/Escala de Coma de Glasgow\|Escala de Coma de Glasgow]]

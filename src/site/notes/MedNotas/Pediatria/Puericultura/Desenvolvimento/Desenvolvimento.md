@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/desenvolvimento/desenvolvimento/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/desenvolvimento/desenvolvimento/","tags":["review"]}
 ---
 
 # Fatores associados

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/metodos-comportamentais/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/metodos-comportamentais/","tags":["review"]}
 ---
 
 Tempo de vida do óvulo: 24h

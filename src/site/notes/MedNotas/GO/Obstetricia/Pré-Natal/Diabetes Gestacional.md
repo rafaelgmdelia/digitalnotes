@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/diabetes-gestacional/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/diabetes-gestacional/","tags":["review"]}
 ---
 
 

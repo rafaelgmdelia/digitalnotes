@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/teste-do-pezinho/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/alojamento-conjunto/teste-do-pezinho/","tags":["review"]}
 ---
 
 Triagem biológica

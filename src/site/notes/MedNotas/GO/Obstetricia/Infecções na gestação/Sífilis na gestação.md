@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/sifilis-na-gestacao/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/sifilis-na-gestacao/","tags":["review"]}
 ---
 
 Triagem pré-natal na primeira consulta e no início do 3º trimestre

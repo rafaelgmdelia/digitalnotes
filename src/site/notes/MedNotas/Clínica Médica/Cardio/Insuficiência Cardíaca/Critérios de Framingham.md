@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/criterios-de-framingham/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/criterios-de-framingham/","tags":["review"]}
 ---
 
 # Critérios maiores

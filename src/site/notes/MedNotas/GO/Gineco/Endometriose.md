@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/endometriose/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/endometriose/","tags":["review"]}
 ---
 
 Invasão de tecido endometrial fora do útero, podendo levar a sintomas álgicos

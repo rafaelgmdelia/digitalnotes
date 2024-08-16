@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/intensiva/protocolo-blue/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/intensiva/protocolo-blue/","tags":["review"]}
 ---
 

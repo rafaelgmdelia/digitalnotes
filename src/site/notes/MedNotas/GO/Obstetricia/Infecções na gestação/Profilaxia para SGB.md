@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/profilaxia-para-sgb/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/infeccoes-na-gestacao/profilaxia-para-sgb/","tags":["review"]}
 ---
 
 *Strepto Grupo B*

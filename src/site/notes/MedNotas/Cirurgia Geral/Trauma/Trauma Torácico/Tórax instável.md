@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/torax-instavel/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-toracico/torax-instavel/","tags":["review"]}
 ---
 
 - 2 costelas adjacentes fraturadas em > 2 lugares

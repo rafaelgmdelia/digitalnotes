@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/vias-biliares/lama-biliar/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/vias-biliares/lama-biliar/","tags":["review"]}
 ---
 
 Microlitíase formada por colesterol e muco

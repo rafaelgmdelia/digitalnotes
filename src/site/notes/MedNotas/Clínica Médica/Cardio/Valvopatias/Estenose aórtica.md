@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/estenose-aortica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/valvopatias/estenose-aortica/","tags":["review"]}
 ---
 
 Obstrução à ejeção de sangue para a circulação sistêmica

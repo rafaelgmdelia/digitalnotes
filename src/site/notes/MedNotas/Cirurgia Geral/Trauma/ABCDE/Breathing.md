@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/breathing/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/abcde/breathing/","tags":["review"]}
 ---
 
 ## Exame Físico!

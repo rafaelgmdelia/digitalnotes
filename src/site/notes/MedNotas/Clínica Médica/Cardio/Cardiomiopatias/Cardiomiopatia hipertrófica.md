@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/cardiomiopatia-hipertrofica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/cardiomiopatias/cardiomiopatia-hipertrofica/","tags":["review"]}
 ---
 
 - Doença genética autossômica dominante
@@ -34,7 +34,7 @@
 - Profilaxia secundária com CDI se
 	- TV sustendada
 	- FV revertida
-	- [[MedNotas/Pediatria/PALS/Parada Cardiorrespiratória na Pediatria\|Parada Cardiorrespiratória na Pediatria]] abortada
+	- [[Parada Cardiorrespiratória\|Parada Cardiorrespiratória]] abortada
 - Refratários a tratamento clinico:
 	- Ventriculomiectomia septal
 	- Ablação septal

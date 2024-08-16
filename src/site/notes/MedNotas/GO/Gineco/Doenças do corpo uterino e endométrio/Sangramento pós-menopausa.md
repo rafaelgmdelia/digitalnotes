@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/doencas-do-corpo-uterino-e-endometrio/sangramento-pos-menopausa/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/doencas-do-corpo-uterino-e-endometrio/sangramento-pos-menopausa/","tags":["review"]}
 ---
 
 # Afecções Benignas

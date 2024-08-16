@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/sindromes-medulares/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/sindromes-medulares/","tags":["review"]}
 ---
 
 

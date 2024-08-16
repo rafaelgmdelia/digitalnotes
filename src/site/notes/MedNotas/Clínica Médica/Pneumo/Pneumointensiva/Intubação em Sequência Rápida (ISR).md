@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/pneumointensiva/intubacao-em-sequencia-rapida-isr/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/pneumointensiva/intubacao-em-sequencia-rapida-isr/","tags":["review"]}
 ---
 
 

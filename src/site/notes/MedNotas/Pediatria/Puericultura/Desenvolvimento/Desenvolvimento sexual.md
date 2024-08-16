@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/desenvolvimento/desenvolvimento-sexual/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/desenvolvimento/desenvolvimento-sexual/","tags":["review"]}
 ---
 
 Meninas: 8 - 13 anos

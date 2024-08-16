@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-megaloblastica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-megaloblastica/","tags":["review"]}
 ---
 
 Anemia **hipoproliferativa** por deficiência de **vitamina B12** ou **ácido fólico (B9)**

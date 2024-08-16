@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/ictericia-neonatal/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/ictericia-neonatal/","tags":["review"]}
 ---
 
 # Icterícia fisiológica

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/has-secundaria/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/has-secundaria/","tags":["review"]}
 ---
 
 # Quando suspeitar?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/disturbios-respiratorios/sindrome-do-desconforto-respiratorio/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/disturbios-respiratorios/sindrome-do-desconforto-respiratorio/","tags":["review"]}
 ---
 
 Deficiência de surfactante alveolar

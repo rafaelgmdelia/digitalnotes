@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/diagnostico-da-gestacao/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/diagnostico-da-gestacao/","tags":["review"]}
 ---
 
 

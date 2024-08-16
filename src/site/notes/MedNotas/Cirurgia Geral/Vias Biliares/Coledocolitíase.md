@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/vias-biliares/coledocolitiase/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/vias-biliares/coledocolitiase/","tags":["review"]}
 ---
 
 Obstrução calculosa da via biliar

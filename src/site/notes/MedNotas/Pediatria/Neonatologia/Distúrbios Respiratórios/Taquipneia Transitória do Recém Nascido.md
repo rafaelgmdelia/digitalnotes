@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/disturbios-respiratorios/taquipneia-transitoria-do-recem-nascido/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/neonatologia/disturbios-respiratorios/taquipneia-transitoria-do-recem-nascido/","tags":["review"]}
 ---
 
 Causado por retardo na reabsorção de líquidos

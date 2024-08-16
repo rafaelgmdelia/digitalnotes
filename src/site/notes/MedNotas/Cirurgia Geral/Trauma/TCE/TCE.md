@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/tce/tce/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/tce/tce/","tags":["review"]}
 ---
 
 # Neuroimagem 

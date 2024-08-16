@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/fases-do-ciclo-menstrual/fases-do-ciclo-menstrual/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/fases-do-ciclo-menstrual/fases-do-ciclo-menstrual/","tags":["review"]}
 ---
 
 **Duração do ciclo:** 24-38 dias

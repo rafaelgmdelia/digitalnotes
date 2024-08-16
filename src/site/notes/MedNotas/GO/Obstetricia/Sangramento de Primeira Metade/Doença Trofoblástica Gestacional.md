@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sangramento-de-primeira-metade/doenca-trofoblastica-gestacional/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sangramento-de-primeira-metade/doenca-trofoblastica-gestacional/","tags":["review"]}
 ---
 
 # Mola completa

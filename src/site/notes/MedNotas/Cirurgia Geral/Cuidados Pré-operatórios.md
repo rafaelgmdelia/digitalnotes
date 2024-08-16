@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/cuidados-pre-operatorios/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/cuidados-pre-operatorios/","tags":["review"]}
 ---
 
 # Exames pré-operatórios

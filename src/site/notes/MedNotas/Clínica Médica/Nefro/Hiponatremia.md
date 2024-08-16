@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/hiponatremia/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/hiponatremia/","tags":["review"]}
 ---
 
 

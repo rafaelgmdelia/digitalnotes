@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/medicina-fetal/gestacao-gemelar/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/medicina-fetal/gestacao-gemelar/","tags":["review"]}
 ---
 
 - Maior incidência devido a idade materna e reprodução assistida

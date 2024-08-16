@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/vulvovaginites/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/vulvovaginites/vulvovaginites/","tags":["review"]}
 ---
 
 

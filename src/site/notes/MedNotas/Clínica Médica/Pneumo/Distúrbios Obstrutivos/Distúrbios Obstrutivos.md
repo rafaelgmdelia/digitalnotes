@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/disturbios-obstrutivos/disturbios-obstrutivos/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/disturbios-obstrutivos/disturbios-obstrutivos/","tags":["review"]}
 ---
 
 Ref: Manual do residente de clínica médica - HCFMUSP

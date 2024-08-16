@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/hipertensao-arterial-sistemica-na-pediatria/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/hipertensao-arterial-sistemica-na-pediatria/","tags":["review"]}
 ---
 
 # Quando iniciar aferição da PA?

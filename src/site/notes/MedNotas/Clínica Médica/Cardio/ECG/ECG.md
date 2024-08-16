@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/ecg/ecg/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/ecg/ecg/","tags":["review"]}
 ---
 
 

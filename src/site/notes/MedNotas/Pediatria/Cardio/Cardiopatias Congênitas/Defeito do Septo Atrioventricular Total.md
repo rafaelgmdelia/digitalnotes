@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/defeito-do-septo-atrioventricular-total/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/defeito-do-septo-atrioventricular-total/","tags":["review"]}
 ---
 
 ### Defeito do Septo Atrioventricular Total

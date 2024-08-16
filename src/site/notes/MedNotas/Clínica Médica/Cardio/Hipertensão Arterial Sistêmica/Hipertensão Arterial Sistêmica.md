@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/hipertensao-arterial-sistemica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/hipertensao-arterial-sistemica/hipertensao-arterial-sistemica/","tags":["review"]}
 ---
 
 

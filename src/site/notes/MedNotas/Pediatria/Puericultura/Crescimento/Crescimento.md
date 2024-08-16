@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/crescimento/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/crescimento/crescimento/","tags":["review"]}
 ---
 
 # Acompanhamento do crescimento

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-ferropriva/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/anemia-ferropriva/","tags":["review"]}
 ---
 
 Anemia **hipoproliferativa** por deficiência de ferro

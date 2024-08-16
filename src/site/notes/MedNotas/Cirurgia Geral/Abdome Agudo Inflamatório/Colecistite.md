@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-inflamatorio/colecistite/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/abdome-agudo-inflamatorio/colecistite/","tags":["review"]}
 ---
 
 # Quadro clínico

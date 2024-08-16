@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/fases-do-ciclo-menstrual/esteroidogenese/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/fases-do-ciclo-menstrual/esteroidogenese/","tags":["review"]}
 ---
 
 # Esteroidogênese

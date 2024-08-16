@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/talassemias/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hemato/talassemias/","tags":["review"]}
 ---
 
 Defeito na síntese de alfa ou beta globina

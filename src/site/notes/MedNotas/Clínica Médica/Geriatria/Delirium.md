@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/geriatria/delirium/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/geriatria/delirium/","tags":["review"]}
 ---
 
 Início agudo e curso flutuante

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/insuficiencia-adrenal/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/insuficiencia-adrenal/","tags":["review"]}
 ---
 
 # Primária

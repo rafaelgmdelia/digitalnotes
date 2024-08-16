@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-de-uretra/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/trauma/trauma-de-uretra/","tags":["review"]}
 ---
 
 # Uretra posterior (prostática e membranosa)

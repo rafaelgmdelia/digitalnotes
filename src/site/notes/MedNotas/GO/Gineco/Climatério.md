@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/climaterio/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/climaterio/","tags":["review"]}
 ---
 
 **Transição menopausal** -> período entre o início da irregularidade menstrual e a última menstruação

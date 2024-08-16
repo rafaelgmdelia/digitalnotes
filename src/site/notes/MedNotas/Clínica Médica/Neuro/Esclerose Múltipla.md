@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/esclerose-multipla/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/esclerose-multipla/","tags":["review"]}
 ---
 
 - Doença autoimune desmielinizante que acomete substância branca do SNC

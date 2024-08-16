@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/embolia-pulmonar/trombose-venosa-profunda/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/embolia-pulmonar/trombose-venosa-profunda/","tags":["review"]}
 ---
 
 Formação de trombo no sistema venoso

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/comunicacao-interatrial/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/comunicacao-interatrial/","tags":["review"]}
 ---
 
 ### Comunicação Interatrial

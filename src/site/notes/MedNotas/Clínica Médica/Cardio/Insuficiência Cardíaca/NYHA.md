@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/nyha/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/insuficiencia-cardiaca/nyha/","tags":["review"]}
 ---
 
 # New York Heart Association

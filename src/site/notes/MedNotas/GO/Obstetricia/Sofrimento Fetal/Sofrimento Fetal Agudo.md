@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/sofrimento-fetal-agudo/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/sofrimento-fetal/sofrimento-fetal-agudo/","tags":["review"]}
 ---
 
 # Diagnóstico

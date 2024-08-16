@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/transposicao-dos-grandes-vasos/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/cardio/cardiopatias-congenitas/transposicao-dos-grandes-vasos/","tags":["review"]}
 ---
 
 ### Transposição dos grandes vasos

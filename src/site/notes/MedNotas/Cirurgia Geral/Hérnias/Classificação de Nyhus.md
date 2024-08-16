@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/hernias/classificacao-de-nyhus/"}
+{"dg-publish":true,"permalink":"/med-notas/cirurgia-geral/hernias/classificacao-de-nyhus/","tags":["review"]}
 ---
 
 

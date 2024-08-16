@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/sindrome-hipertensiva-na-gestacao/"}
+{"dg-publish":true,"permalink":"/med-notas/go/obstetricia/pre-natal/sindrome-hipertensiva-na-gestacao/","tags":["review"]}
 ---
 
 # Hipertensão Gestacional

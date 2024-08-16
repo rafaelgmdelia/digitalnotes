@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/shaken-baby/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/shaken-baby/","tags":["review"]}
 ---
 
 # Síndrome do bebê sacudido

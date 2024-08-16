@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/febre-reumatica/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/reumato/febre-reumatica/","tags":["review"]}
 ---
 
 - Infecção orofaríngea pelo Strepto beta-hemolítico do grupo A

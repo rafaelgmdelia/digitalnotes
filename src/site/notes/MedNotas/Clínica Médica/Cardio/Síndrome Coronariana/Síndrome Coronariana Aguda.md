@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/sindrome-coronariana/sindrome-coronariana-aguda/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/cardio/sindrome-coronariana/sindrome-coronariana-aguda/","tags":["review"]}
 ---
 
 # Características

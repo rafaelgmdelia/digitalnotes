@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/insuficiencia-respiratoria/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/pneumo/insuficiencia-respiratoria/","tags":["review"]}
 ---
 
 - PaO2 < 60 mmHg

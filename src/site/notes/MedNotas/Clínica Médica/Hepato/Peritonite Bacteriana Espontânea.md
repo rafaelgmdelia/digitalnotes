@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/peritonite-bacteriana-espontanea/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/hepato/peritonite-bacteriana-espontanea/","tags":["review"]}
 ---
 
 

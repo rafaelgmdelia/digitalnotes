@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/esterilizacao-definitiva/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/contracepcao/esterilizacao-definitiva/","tags":["review"]}
 ---
 
 Vasectomia -> [[MedNotas/GO/Gineco/Contracepção/Índice de Pearl\|Índice de Pearl]] 0,1

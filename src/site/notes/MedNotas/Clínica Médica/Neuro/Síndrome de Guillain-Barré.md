@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/sindrome-de-guillain-barre/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/neuro/sindrome-de-guillain-barre/","tags":["review"]}
 ---
 
 - Polirradiculoneuropatia 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/insuficiencia-renal/insuficiencia-renal/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/nefro/insuficiencia-renal/insuficiencia-renal/","tags":["review"]}
 ---
 
 - Hipervolemia

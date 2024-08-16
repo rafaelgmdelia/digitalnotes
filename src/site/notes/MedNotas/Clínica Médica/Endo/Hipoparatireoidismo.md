@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/hipoparatireoidismo/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/hipoparatireoidismo/","tags":["review"]}
 ---
 
 # Hipoparatireoidismo primário

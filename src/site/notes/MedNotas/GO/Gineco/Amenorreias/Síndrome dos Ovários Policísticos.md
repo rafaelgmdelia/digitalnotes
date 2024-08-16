@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/go/gineco/amenorreias/sindrome-dos-ovarios-policisticos/"}
+{"dg-publish":true,"permalink":"/med-notas/go/gineco/amenorreias/sindrome-dos-ovarios-policisticos/","tags":["review"]}
 ---
 
 # Critérios de Roterdam

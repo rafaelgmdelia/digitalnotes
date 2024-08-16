@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/nodulo-tireoidianos/"}
+{"dg-publish":true,"permalink":"/med-notas/clinica-medica/endo/nodulo-tireoidianos/","tags":["review"]}
 ---
 
 # 1. Solicitar TSH

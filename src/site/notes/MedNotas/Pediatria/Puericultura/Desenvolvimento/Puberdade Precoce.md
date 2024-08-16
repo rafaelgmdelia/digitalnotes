@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/desenvolvimento/puberdade-precoce/"}
+{"dg-publish":true,"permalink":"/med-notas/pediatria/puericultura/desenvolvimento/puberdade-precoce/","tags":["review"]}
 ---
 
 Desenvolvimento de caracteres sexuais secundários
