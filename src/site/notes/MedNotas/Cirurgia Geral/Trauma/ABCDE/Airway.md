@@ -3,7 +3,7 @@
 ---
 
 # Estabilização de coluna cervical 
-
+*Risco de [[MedNotas/Cirurgia Geral/Trauma/Trauma Raquimedular\|Trauma Raquimedular]]*
 Retirada do colar cervical: 
 - Ausência de dor cervical na movimentação ativa e passiva
 - Exame físico confiável
