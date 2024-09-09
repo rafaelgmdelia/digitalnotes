@@ -42,8 +42,8 @@
 	- Antecedente familiar de neoplasia de TGI
 # Clínica
 - Epigastralgia
-- Gástrica dói quando come
-- Duodenal dói no jejum
+- Gástrica -> dói quando come
+- Duodenal -> dói no jejum
 - [[MedNotas/Cirurgia Geral/Síndrome Dispéptica/Hemorragia Digestiva Alta\|HDA]]
 	- parede posterior
 - [[MedNotas/Cirurgia Geral/Abdome Agudo Perfurativo\|Abdome Agudo Perfurativo]]

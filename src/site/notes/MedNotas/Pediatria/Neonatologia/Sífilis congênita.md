@@ -24,6 +24,7 @@ Antes de 2 anos vs após os 2 anos
 
 ## Tardia
 - Nariz em sela
+- Fundoscopia com alteração pigmentar em sal e pimenta
 *Tríade de Hutchinson*:
 - Dentes de Hutchinson
 - Perda auditiva

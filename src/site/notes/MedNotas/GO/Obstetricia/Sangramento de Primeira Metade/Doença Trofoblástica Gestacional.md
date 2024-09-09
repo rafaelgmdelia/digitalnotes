@@ -10,7 +10,7 @@
 
 # Mola incompleta
 - Dois espermatozoides + óvulo normal
-- Triploid
+- Triploide
 - há formação de tecido fetal
 - menor risco de malignização (5%)
 

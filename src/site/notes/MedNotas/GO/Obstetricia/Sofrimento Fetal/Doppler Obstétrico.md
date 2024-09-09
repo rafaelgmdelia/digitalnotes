@@ -31,7 +31,7 @@
 - Hipóxia -> priorização de órgãos vitais
 	- reduz a resistência da ACM
 	- centralização fetal
-- **Conduta** -> vigilância 2x/semanas
+- **Conduta** -> vigilância 2x/semana
 # Ducto venoso
 - Importante preditor de morbimortalidade fetal
 - Último parâmetro a sofrer alteração
